@@ -1,0 +1,5848 @@
+[
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1371840",
+    "astronautLabel": "Richard A. Searfoss",
+    "birthdate": "1956-06-05T00:00:00Z",
+    "birthplaceLabel": "Mount Clemens",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "56358",
+    "date_of_death": "2018-09-29T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4994273",
+    "astronautLabel": "Tatyana Kuznetsova",
+    "birthdate": "1941-07-14T00:00:00Z",
+    "birthplaceLabel": "Nizhny Novgorod",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "0",
+    "date_of_death": "2018-08-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q557058",
+    "astronautLabel": "Donald H. Peterson",
+    "birthdate": "1933-10-22T00:00:00Z",
+    "birthplaceLabel": "Winona",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "7223",
+    "date_of_death": "2018-05-27T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q310924",
+    "astronautLabel": "Alan Bean",
+    "birthdate": "1932-03-15T00:00:00Z",
+    "birthplaceLabel": "Wheeler",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "100305",
+    "date_of_death": "2018-05-26T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q449577",
+    "astronautLabel": "Vladimir Lyakhov",
+    "birthdate": "1941-07-20T00:00:00Z",
+    "birthplaceLabel": "Antratsyt",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "479987",
+    "date_of_death": "2018-04-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q52106890",
+    "astronautLabel": "Joseph M. Prahl",
+    "birthdate": "1943-03-30T00:00:00Z",
+    "birthplaceLabel": "Beverly",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2018-04-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q382150",
+    "astronautLabel": "Leonid Kadeniuk",
+    "birthdate": "1951-01-28T00:00:00Z",
+    "birthplaceLabel": "Klischkiwzi",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2018-01-31T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q107667",
+    "astronautLabel": "John Young",
+    "birthdate": "1930-09-24T00:00:00Z",
+    "birthplaceLabel": "San Francisco",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "50139",
+    "date_of_death": "2018-01-05T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q433608",
+    "astronautLabel": "Bruce McCandless II",
+    "birthdate": "1937-06-08T00:00:00Z",
+    "birthplaceLabel": "Boston",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18751",
+    "date_of_death": "2017-12-21T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q502963",
+    "astronautLabel": "Richard F. Gordon",
+    "birthdate": "1929-10-05T00:00:00Z",
+    "birthplaceLabel": "Seattle",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18953",
+    "date_of_death": "2017-11-06T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q536632",
+    "astronautLabel": "Paul J. Weitz",
+    "birthdate": "1932-07-25T00:00:00Z",
+    "birthplaceLabel": "Erie",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "47593",
+    "date_of_death": "2017-10-22T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q348205",
+    "astronautLabel": "Viktor Gorbatko",
+    "birthdate": "1934-12-03T00:00:00Z",
+    "birthplaceLabel": "Krasnodar Krai",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "43967",
+    "date_of_death": "2017-05-17T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q348205",
+    "astronautLabel": "Viktor Gorbatko",
+    "birthdate": "1934-12-03T00:00:00Z",
+    "birthplaceLabel": "Ventsy",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "43967",
+    "date_of_death": "2017-05-17T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q434555",
+    "astronautLabel": "Georgy Grechko",
+    "birthdate": "1931-05-25T00:00:00Z",
+    "birthplaceLabel": "Saint Petersburg",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "194192",
+    "date_of_death": "2017-04-08T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q158486",
+    "astronautLabel": "Eugene Cernan",
+    "birthdate": "1934-03-14T00:00:00Z",
+    "birthplaceLabel": "Bellwood",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "33975",
+    "date_of_death": "2017-01-16T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q280301",
+    "astronautLabel": "Igor Volk",
+    "birthdate": "1937-04-12T00:00:00Z",
+    "birthplaceLabel": "Zmiiv",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "16994",
+    "date_of_death": "2017-01-03T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q14948501",
+    "astronautLabel": "Ricardo Peralta y Fabi",
+    "birthdate": "1950-08-15T00:00:00Z",
+    "birthplaceLabel": "Mexico City",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2017-01-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q505439",
+    "astronautLabel": "Piers Sellers",
+    "birthdate": "1955-04-11T00:00:00Z",
+    "birthplaceLabel": "Crowborough",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "50942",
+    "date_of_death": "2016-12-23T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q182642",
+    "astronautLabel": "John Glenn",
+    "birthdate": "1921-07-18T00:00:00Z",
+    "birthplaceLabel": "Cambridge",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "13414",
+    "date_of_death": "2016-12-08T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3499300",
+    "astronautLabel": "Duane Graveline",
+    "birthdate": "1931-03-02T00:00:00Z",
+    "birthplaceLabel": "Newport",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2016-09-05T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q717654",
+    "astronautLabel": "Donald E. Williams",
+    "birthdate": "1942-02-13T00:00:00Z",
+    "birthplaceLabel": "Lafayette",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17254",
+    "date_of_death": "2016-02-23T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q295873",
+    "astronautLabel": "Edgar Mitchell",
+    "birthdate": "1930-09-17T00:00:00Z",
+    "birthplaceLabel": "Pula",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "12961",
+    "date_of_death": "2016-02-04T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q6969146",
+    "astronautLabel": "Nathan J. Lindsay",
+    "birthdate": "1936-01-01T00:00:00Z",
+    "birthplaceLabel": "Monroe",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2015-05-25T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q8070504",
+    "astronautLabel": "Zhanna Yorkina",
+    "birthdate": "1939-05-06T00:00:00Z",
+    "birthplaceLabel": "Soltsy",
+    "sex_or_genderLabel": "female",
+    "date_of_death": "2015-05-15T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3270358",
+    "astronautLabel": "Curt Michel",
+    "birthdate": "1934-06-05T00:00:00Z",
+    "birthplaceLabel": "La Crosse",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2015-02-23T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q465748",
+    "astronautLabel": "Aleksei Gubarev",
+    "birthdate": "1931-03-29T00:00:00Z",
+    "birthplaceLabel": "Q4134456",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "53976",
+    "date_of_death": "2015-02-21T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q281604",
+    "astronautLabel": "Boris Morukov",
+    "birthdate": "1950-10-01T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "16992",
+    "date_of_death": "2015-01-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q465724",
+    "astronautLabel": "Anatoly Berezovoy",
+    "birthdate": "1942-04-11T00:00:00Z",
+    "birthplaceLabel": "Enem",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "304384",
+    "date_of_death": "2014-09-20T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16523336",
+    "astronautLabel": "Timothy Kristian Charles Mace",
+    "birthdate": "1955-11-20T00:00:00Z",
+    "birthplaceLabel": "Catterick",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2014-09-14T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q720361",
+    "astronautLabel": "Steven R. Nagel",
+    "birthdate": "1946-10-27T00:00:00Z",
+    "birthplaceLabel": "Canton",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "43294",
+    "date_of_death": "2014-08-21T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q460161",
+    "astronautLabel": "Henry Hartsfield",
+    "birthdate": "1933-11-21T00:00:00Z",
+    "birthplaceLabel": "Birmingham",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "28970",
+    "date_of_death": "2014-07-17T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q944386",
+    "astronautLabel": "Wubbo Ockels",
+    "birthdate": "1946-03-28T00:00:00Z",
+    "birthplaceLabel": "Almelo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10124",
+    "date_of_death": "2014-05-18T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1395516",
+    "astronautLabel": "Bill Dana",
+    "birthdate": "1930-11-03T00:00:00Z",
+    "birthplaceLabel": "Pasadena",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2014-05-06T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q460440",
+    "astronautLabel": "William R. Pogue",
+    "birthdate": "1930-01-23T00:00:00Z",
+    "birthplaceLabel": "Okemah",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "121035",
+    "date_of_death": "2014-03-03T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q432752",
+    "astronautLabel": "Valeri Kubasov",
+    "birthdate": "1935-01-07T00:00:00Z",
+    "birthplaceLabel": "Vyazniki",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "26997",
+    "date_of_death": "2014-02-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q426836",
+    "astronautLabel": "Dale Gardner",
+    "birthdate": "1948-11-08T00:00:00Z",
+    "birthplaceLabel": "Fairmont",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "20212",
+    "date_of_death": "2014-02-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q362819",
+    "astronautLabel": "Aleksandr Serebrov",
+    "birthdate": "1944-02-15T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "537052",
+    "date_of_death": "2013-11-12T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q905516",
+    "astronautLabel": "Dmitri Zaikin",
+    "birthdate": "1932-04-29T00:00:00Z",
+    "birthplaceLabel": "Rostov Oblast",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2013-10-21T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q335503",
+    "astronautLabel": "Scott Carpenter",
+    "birthdate": "1925-05-01T00:00:00Z",
+    "birthplaceLabel": "Boulder",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "296",
+    "date_of_death": "2013-10-10T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q519268",
+    "astronautLabel": "C. Gordon Fullerton",
+    "birthdate": "1936-10-11T00:00:00Z",
+    "birthplaceLabel": "Rochester",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22970",
+    "date_of_death": "2013-08-21T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q986620",
+    "astronautLabel": "Anthony Llewellyn",
+    "birthdate": "1933-04-22T00:00:00Z",
+    "birthplaceLabel": "Cardiff",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2013-07-02T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q822726",
+    "astronautLabel": "Dumitru Dediu",
+    "birthdate": "1942-05-12T00:00:00Z",
+    "birthplaceLabel": "Galați",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2013-07-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1401203",
+    "astronautLabel": "Q1401203",
+    "birthdate": "1930-06-08T00:00:00Z",
+    "birthplaceLabel": "Donetsk Oblast",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2012-11-10T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1615",
+    "astronautLabel": "Neil Armstrong",
+    "birthdate": "1930-08-05T00:00:00Z",
+    "birthplaceLabel": "Wapakoneta",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "12372.5",
+    "date_of_death": "2012-08-25T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q49285",
+    "astronautLabel": "Sally Ride",
+    "birthdate": "1951-05-26T00:00:00Z",
+    "birthplaceLabel": "Los Angeles",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "20626",
+    "date_of_death": "2012-07-23T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q362220",
+    "astronautLabel": "Alan G. Poindexter",
+    "birthdate": "1961-11-05T00:00:00Z",
+    "birthplaceLabel": "Pasadena",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "40149",
+    "date_of_death": "2012-07-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q17593757",
+    "astronautLabel": "Alexander Jabloncev",
+    "birthdate": "1955-04-03T00:00:00Z",
+    "birthplaceLabel": "Warsaw",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "0",
+    "date_of_death": "2012-05-09T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q52923",
+    "astronautLabel": "Janice E. Voss",
+    "birthdate": "1956-10-08T00:00:00Z",
+    "birthplaceLabel": "South Bend",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "70789",
+    "date_of_death": "2012-02-06T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q360038",
+    "astronautLabel": "Valery Rozhdestvensky",
+    "birthdate": "1939-02-13T00:00:00Z",
+    "birthplaceLabel": "Saint Petersburg",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "2886",
+    "date_of_death": "2011-08-31T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q986622",
+    "astronautLabel": "Brian O'Leary",
+    "birthdate": "1940-01-27T00:00:00Z",
+    "birthplaceLabel": "Boston",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2011-07-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q501697",
+    "astronautLabel": "John M. Lounge",
+    "birthdate": "1946-06-28T00:00:00Z",
+    "birthplaceLabel": "Denver",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "28943",
+    "date_of_death": "2011-03-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q376165",
+    "astronautLabel": "William B. Lenoir",
+    "birthdate": "1939-03-14T00:00:00Z",
+    "birthplaceLabel": "Miami",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "7334",
+    "date_of_death": "2010-08-26T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q360060",
+    "astronautLabel": "Leonid Kizim",
+    "birthdate": "1941-08-05T00:00:00Z",
+    "birthplaceLabel": "Lyman",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "539636",
+    "date_of_death": "2010-06-14T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1129526",
+    "astronautLabel": "Lew Worobjow",
+    "birthdate": "1931-02-24T00:00:00Z",
+    "birthplaceLabel": "Borovichi",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2010-05-12T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q252726",
+    "astronautLabel": "Vitaly Sevastyanov",
+    "birthdate": "1935-07-08T00:00:00Z",
+    "birthplaceLabel": "Krasnouralsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "116178",
+    "date_of_death": "2010-04-05T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2620784",
+    "astronautLabel": "Robert Michael White",
+    "birthdate": "1924-07-06T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2010-03-17T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q320068",
+    "astronautLabel": "Konstantin Feoktistov",
+    "birthdate": "1926-02-07T00:00:00Z",
+    "birthplaceLabel": "Voronezh",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1457",
+    "date_of_death": "2009-11-21T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2315605",
+    "astronautLabel": "Fernando Caldeiro",
+    "birthdate": "1958-06-12T00:00:00Z",
+    "birthplaceLabel": "Buenos Aires",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2009-10-03T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q118490",
+    "astronautLabel": "Pavel Popovich",
+    "birthdate": "1930-10-05T00:00:00Z",
+    "birthplaceLabel": "Uzyn",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "26907",
+    "date_of_death": "2009-09-29T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q14948500",
+    "astronautLabel": "Robert Jackson Wood",
+    "birthdate": "1957-06-26T00:00:00Z",
+    "birthplaceLabel": "Fitchburg",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2009-02-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q465461",
+    "astronautLabel": "Yury Glazkov",
+    "birthdate": "1939-10-02T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "25525",
+    "date_of_death": "2008-12-09T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4131995",
+    "astronautLabel": "Sergey Nikolaevich Gaidukov,",
+    "birthdate": "1936-10-31T00:00:00Z",
+    "birthplaceLabel": "Kantemirovsky District",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2008-12-05T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1282566",
+    "astronautLabel": "John S. Bull",
+    "birthdate": "1934-09-25T00:00:00Z",
+    "birthplaceLabel": "Memphis",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2008-08-11T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q347845",
+    "astronautLabel": "Robert T. Herres",
+    "birthdate": "1932-12-01T00:00:00Z",
+    "birthplaceLabel": "Denver",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2008-07-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1385274",
+    "astronautLabel": "Ronald A. Parise",
+    "birthdate": "1951-05-24T00:00:00Z",
+    "birthplaceLabel": "Warren",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "36853",
+    "date_of_death": "2008-05-09T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1507223",
+    "astronautLabel": "G. David Low",
+    "birthdate": "1956-02-19T00:00:00Z",
+    "birthplaceLabel": "Cleveland",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "42845",
+    "date_of_death": "2008-03-15T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q110450",
+    "astronautLabel": "Wally Schirra",
+    "birthdate": "1923-03-12T00:00:00Z",
+    "birthplaceLabel": "Hackensack",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17712",
+    "date_of_death": "2007-05-03T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q17426654",
+    "astronautLabel": "Q17426654",
+    "birthdate": "1947-10-06T00:00:00Z",
+    "birthplaceLabel": "Luga",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2007-01-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q495624",
+    "astronautLabel": "John L. Finley",
+    "birthdate": "1935-12-22T00:00:00Z",
+    "birthplaceLabel": "Winchester",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2006-09-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q722667",
+    "astronautLabel": "Charles E. Brady Jr.",
+    "birthdate": "1951-08-12T00:00:00Z",
+    "birthplaceLabel": "Pinehurst",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "24348",
+    "date_of_death": "2006-07-23T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q7258156",
+    "astronautLabel": "Anatoli Kartashov",
+    "birthdate": "1932-08-25T00:00:00Z",
+    "birthplaceLabel": "Anninsky District",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2005-12-11T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q495632",
+    "astronautLabel": "Richard E. Lawyer",
+    "birthdate": "1932-11-08T00:00:00Z",
+    "birthplaceLabel": "Los Angeles",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2005-11-12T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q472491",
+    "astronautLabel": "Gennadi Sarafanov",
+    "birthdate": "1942-01-01T00:00:00Z",
+    "birthplaceLabel": "Q4420246",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "2892",
+    "date_of_death": "2005-09-29T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q301522",
+    "astronautLabel": "Yuriy Ponomaryow",
+    "birthdate": "1932-03-24T00:00:00Z",
+    "birthplaceLabel": "Kadaja",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2005-04-16T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q470256",
+    "astronautLabel": "Gennadi Strekalov",
+    "birthdate": "1940-10-26T00:00:00Z",
+    "birthplaceLabel": "Mytishchi",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "387262",
+    "date_of_death": "2004-12-25T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q312833",
+    "astronautLabel": "Gordon Cooper",
+    "birthdate": "1927-03-06T00:00:00Z",
+    "birthplaceLabel": "Shawnee",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "13514",
+    "date_of_death": "2004-10-04T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q312474",
+    "astronautLabel": "Andriyan Nikolayev",
+    "birthdate": "1929-09-05T00:00:00Z",
+    "birthplaceLabel": "Shorshely",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "31160",
+    "date_of_death": "2004-07-03T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q974431",
+    "astronautLabel": "William J. Knight",
+    "birthdate": "1929-11-18T00:00:00Z",
+    "birthplaceLabel": "Hamilton County",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2004-05-07T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1392345",
+    "astronautLabel": "Yuri Senkevich",
+    "birthdate": "1937-03-04T00:00:00Z",
+    "birthplaceLabel": "Choibalsan",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2003-09-25T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q467623",
+    "astronautLabel": "Oleg Grigoryevich Makarov",
+    "birthdate": "1933-01-06T00:00:00Z",
+    "birthplaceLabel": "Udomlya",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "29840",
+    "date_of_death": "2003-05-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q17426873",
+    "astronautLabel": "Q17426873",
+    "birthdate": "1939-03-14T00:00:00Z",
+    "birthplaceLabel": "Q18802261",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2003-04-15T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q237879",
+    "astronautLabel": "Kalpana Chawla",
+    "birthdate": "1962-03-17T00:00:00Z",
+    "birthplaceLabel": "Karnal",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "45534",
+    "date_of_death": "2003-02-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q346671",
+    "astronautLabel": "Rick Husband",
+    "birthdate": "1957-07-12T00:00:00Z",
+    "birthplaceLabel": "Amarillo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "37053",
+    "date_of_death": "2003-02-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q318542",
+    "astronautLabel": "Michael P. Anderson",
+    "birthdate": "1959-12-25T00:00:00Z",
+    "birthplaceLabel": "Plattsburgh",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "35648",
+    "date_of_death": "2003-02-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q334463",
+    "astronautLabel": "William C. McCool",
+    "birthdate": "1961-09-23T00:00:00Z",
+    "birthplaceLabel": "San Diego",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22940",
+    "date_of_death": "2003-02-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q350317",
+    "astronautLabel": "David M. Brown",
+    "birthdate": "1956-04-16T00:00:00Z",
+    "birthplaceLabel": "Arlington County",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22940",
+    "date_of_death": "2003-02-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q219569",
+    "astronautLabel": "Ilan Ramon",
+    "birthdate": "1954-06-20T00:00:00Z",
+    "birthplaceLabel": "Ramat Gan",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22940",
+    "date_of_death": "2003-02-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q232441",
+    "astronautLabel": "Laurel Clark",
+    "birthdate": "1961-03-10T00:00:00Z",
+    "birthplaceLabel": "Ames",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "22940",
+    "date_of_death": "2003-02-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q266359",
+    "astronautLabel": "Nikolay Rukavishnikov",
+    "birthdate": "1932-09-18T00:00:00Z",
+    "birthplaceLabel": "Tomsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14229",
+    "date_of_death": "2002-10-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q708689",
+    "astronautLabel": "Vladimir Vasyutin",
+    "birthdate": "1952-03-08T00:00:00Z",
+    "birthplaceLabel": "Kharkiv",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "93472",
+    "date_of_death": "2002-07-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1174171",
+    "astronautLabel": "Charles Edward Jones",
+    "birthdate": "1952-11-04T00:00:00Z",
+    "birthplaceLabel": "Clinton",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2001-09-11T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2742047",
+    "astronautLabel": "Patricia Robertson",
+    "birthdate": "1963-03-12T00:00:00Z",
+    "birthplaceLabel": "Indiana",
+    "sex_or_genderLabel": "female",
+    "date_of_death": "2001-05-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q720351",
+    "astronautLabel": "David M. Walker",
+    "birthdate": "1944-05-20T00:00:00Z",
+    "birthplaceLabel": "Columbus",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "43467",
+    "date_of_death": "2001-04-23T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q152298",
+    "astronautLabel": "Gherman Titov",
+    "birthdate": "1935-09-11T00:00:00Z",
+    "birthplaceLabel": "Kosikhinsky District",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1518",
+    "date_of_death": "2000-09-20T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4391024",
+    "astronautLabel": "Mars Rafikov",
+    "birthdate": "1933-09-29T00:00:00Z",
+    "birthplaceLabel": "Jalal-Abad",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "2000-07-23T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q455669",
+    "astronautLabel": "Yevgeny Khrunov",
+    "birthdate": "1933-09-10T00:00:00Z",
+    "birthplaceLabel": "Tula Oblast",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "2865",
+    "date_of_death": "2000-05-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q535280",
+    "astronautLabel": "Yury Vasilyevich Malyshev",
+    "birthdate": "1941-08-27T00:00:00Z",
+    "birthplaceLabel": "Nikolayevsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17039",
+    "date_of_death": "1999-11-08T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q213076",
+    "astronautLabel": "Pete Conrad",
+    "birthdate": "1930-06-02T00:00:00Z",
+    "birthplaceLabel": "Philadelphia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "70778",
+    "date_of_death": "1999-07-08T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q450834",
+    "astronautLabel": "Lev Dyomin",
+    "birthdate": "1926-01-11T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "2892",
+    "date_of_death": "1998-12-18T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q451259",
+    "astronautLabel": "Yury Artyukhin",
+    "birthdate": "1930-06-22T00:00:00Z",
+    "birthplaceLabel": "Klinsky District",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22650",
+    "date_of_death": "1998-08-04T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q174979",
+    "astronautLabel": "Alan Shepard",
+    "birthdate": "1923-11-18T00:00:00Z",
+    "birthplaceLabel": "Derry",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "13017",
+    "date_of_death": "1998-07-21T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q17427763",
+    "astronautLabel": "Q17427763",
+    "birthdate": "1931-07-03T00:00:00Z",
+    "birthplaceLabel": "Saint Petersburg",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1998-04-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q434409",
+    "astronautLabel": "Georgy Shonin",
+    "birthdate": "1935-08-03T00:00:00Z",
+    "birthplaceLabel": "Rovenky",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "7122",
+    "date_of_death": "1997-04-06T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q324189",
+    "astronautLabel": "Henry C. Gordon",
+    "birthdate": "1925-12-23T00:00:00Z",
+    "birthplaceLabel": "Valparaiso",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1996-09-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q519149",
+    "astronautLabel": "Robert F. Overmyer",
+    "birthdate": "1936-07-14T00:00:00Z",
+    "birthplaceLabel": "Lorain",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17422",
+    "date_of_death": "1996-03-22T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q573473",
+    "astronautLabel": "Charles L. Veach",
+    "birthdate": "1944-09-18T00:00:00Z",
+    "birthplaceLabel": "Chicago",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "26178",
+    "date_of_death": "1995-10-03T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q215131",
+    "astronautLabel": "Reinhard Furrer",
+    "birthdate": "1940-11-25T00:00:00Z",
+    "birthplaceLabel": "Wörgl",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10124",
+    "date_of_death": "1995-09-09T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q364451",
+    "astronautLabel": "Georgy Beregovoy",
+    "birthdate": "1921-04-15T00:00:00Z",
+    "birthplaceLabel": "Fedorivka",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "5690",
+    "date_of_death": "1995-06-30T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q375065",
+    "astronautLabel": "Stuart Roosa",
+    "birthdate": "1933-08-16T00:00:00Z",
+    "birthplaceLabel": "Durango",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "12961",
+    "date_of_death": "1994-12-12T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q352137",
+    "astronautLabel": "Boris Yegorov",
+    "birthdate": "1937-11-26T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1457",
+    "date_of_death": "1994-09-12T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q9250621",
+    "astronautLabel": "Q9250621",
+    "birthdate": "1935-06-27T00:00:00Z",
+    "birthplaceLabel": "Poltava",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1994-02-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q9150744",
+    "astronautLabel": "Anatoli Fyodorovich Voronov",
+    "birthdate": "1930-06-11T00:00:00Z",
+    "birthplaceLabel": "Severny District, Orenburg Oblast",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1993-10-31T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q722390",
+    "astronautLabel": "Karl Gordon Henize",
+    "birthdate": "1926-10-17T00:00:00Z",
+    "birthplaceLabel": "Cincinnati",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11445",
+    "date_of_death": "1993-10-05T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3314544",
+    "astronautLabel": "Milton Orville Thompson",
+    "birthdate": "1926-05-04T00:00:00Z",
+    "birthplaceLabel": "Crookston",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1993-08-06T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3479773",
+    "astronautLabel": "Sergei Vozovikov",
+    "birthdate": "1958-04-17T00:00:00Z",
+    "birthplaceLabel": "Almaty",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1993-07-11T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q336810",
+    "astronautLabel": "Deke Slayton",
+    "birthdate": "1924-03-01T00:00:00Z",
+    "birthplaceLabel": "Sparta",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "13048",
+    "date_of_death": "1993-06-13T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q682970",
+    "astronautLabel": "Robert A. Rushworth",
+    "birthdate": "1924-10-09T00:00:00Z",
+    "birthplaceLabel": "Madison",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1993-03-17T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2624210",
+    "astronautLabel": "Ivan Anikeyev",
+    "birthdate": "1933-02-12T00:00:00Z",
+    "birthplaceLabel": "Liski",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1992-08-08T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q297801",
+    "astronautLabel": "James Irwin",
+    "birthdate": "1930-03-17T00:00:00Z",
+    "birthplaceLabel": "Pittsburgh",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17712",
+    "date_of_death": "1991-08-08T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1338912",
+    "astronautLabel": "Sonny Carter",
+    "birthdate": "1947-08-15T00:00:00Z",
+    "birthplaceLabel": "Macon",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "7206",
+    "date_of_death": "1991-04-05T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q365317",
+    "astronautLabel": "Vasily Lazarev",
+    "birthdate": "1928-02-23T00:00:00Z",
+    "birthplaceLabel": "Q4373162",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "2835",
+    "date_of_death": "1990-12-31T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2361286",
+    "astronautLabel": "Valentin Filatyev",
+    "birthdate": "1930-01-21T00:00:00Z",
+    "birthplaceLabel": "Tyumen Oblast",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1990-09-15T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q202933",
+    "astronautLabel": "Rimantas Stankevičius",
+    "birthdate": "1944-07-26T00:00:00Z",
+    "birthplaceLabel": "Marijampolė",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1990-09-09T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q313543",
+    "astronautLabel": "Ronald Evans",
+    "birthdate": "1933-11-10T00:00:00Z",
+    "birthplaceLabel": "St. Francis",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18112",
+    "date_of_death": "1990-04-07T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q324049",
+    "astronautLabel": "James W. Wood",
+    "birthdate": "1924-08-09T00:00:00Z",
+    "birthplaceLabel": "Paragould",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1990-01-01T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q719921",
+    "astronautLabel": "S. David Griggs",
+    "birthdate": "1939-09-07T00:00:00Z",
+    "birthplaceLabel": "Portland",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10075",
+    "date_of_death": "1989-06-17T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q488008",
+    "astronautLabel": "Anatoli Levchenko",
+    "birthdate": "1941-05-21T00:00:00Z",
+    "birthplaceLabel": "Krasnokutsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11398",
+    "date_of_death": "1988-08-06T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q449706",
+    "astronautLabel": "Donn F. Eisele",
+    "birthdate": "1930-06-23T00:00:00Z",
+    "birthplaceLabel": "Columbus",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "15608",
+    "date_of_death": "1987-12-02T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3498668",
+    "astronautLabel": "Stephen Thorne",
+    "birthdate": "1953-02-11T00:00:00Z",
+    "birthplaceLabel": "Frankfurt",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "0",
+    "date_of_death": "1986-05-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q315730",
+    "astronautLabel": "Ronald McNair",
+    "birthdate": "1950-10-21T00:00:00Z",
+    "birthplaceLabel": "Lake City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11475",
+    "date_of_death": "1986-01-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q320047",
+    "astronautLabel": "Dick Scobee",
+    "birthdate": "1939-05-19T00:00:00Z",
+    "birthplaceLabel": "Cle Elum",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10060",
+    "date_of_death": "1986-01-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q49284",
+    "astronautLabel": "Judith Resnik",
+    "birthdate": "1949-04-05T00:00:00Z",
+    "birthplaceLabel": "Akron",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "8696",
+    "date_of_death": "1986-01-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q349365",
+    "astronautLabel": "Ellison Onizuka",
+    "birthdate": "1946-06-24T00:00:00Z",
+    "birthplaceLabel": "Kailua",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "4413",
+    "date_of_death": "1986-01-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q382013",
+    "astronautLabel": "Gregory Jarvis",
+    "birthdate": "1944-08-24T00:00:00Z",
+    "birthplaceLabel": "Detroit",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1986-01-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q229674",
+    "astronautLabel": "Christa McAuliffe",
+    "birthdate": "1948-09-02T00:00:00Z",
+    "birthplaceLabel": "Boston",
+    "sex_or_genderLabel": "female",
+    "date_of_death": "1986-01-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q25981",
+    "astronautLabel": "Michael J. Smith",
+    "birthdate": "1945-04-30T00:00:00Z",
+    "birthplaceLabel": "Beaufort",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1986-01-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q28270",
+    "astronautLabel": "Ham",
+    "birthdate": "1956-08-01T00:00:00Z",
+    "birthplaceLabel": "Cameroon",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1983-01-19T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q348358",
+    "astronautLabel": "Jack Swigert",
+    "birthdate": "1931-08-30T00:00:00Z",
+    "birthplaceLabel": "Denver",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "8574",
+    "date_of_death": "1982-12-27T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q63594",
+    "astronautLabel": "Bui Thanh Liem",
+    "birthdate": "1949-06-30T00:00:00Z",
+    "birthplaceLabel": "Hanoi",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1981-09-26T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4196202",
+    "astronautLabel": "Ivanov Georgievich Leonid",
+    "birthdate": "1950-06-25T00:00:00Z",
+    "birthplaceLabel": "Safonovo",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1980-10-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4103886",
+    "astronautLabel": "Valentin Varlamov",
+    "birthdate": "1934-08-15T00:00:00Z",
+    "birthplaceLabel": "Penza Oblast",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1980-10-02T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2039980",
+    "astronautLabel": "Aleksey Sorokin",
+    "birthdate": "1931-03-30T00:00:00Z",
+    "birthplaceLabel": "Q18774791",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1976-01-11T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2720489",
+    "astronautLabel": "John B. McKay",
+    "birthdate": "1922-12-08T00:00:00Z",
+    "birthplaceLabel": "Portsmouth",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1975-04-27T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4083696",
+    "astronautLabel": "Vladimir Benderov",
+    "birthdate": "1924-08-04T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1973-06-03T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q345658",
+    "astronautLabel": "Vladislav Volkov",
+    "birthdate": "1935-11-23T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "41341",
+    "date_of_death": "1971-06-30T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q355433",
+    "astronautLabel": "Georgy Dobrovolsky",
+    "birthdate": "1928-06-01T00:00:00Z",
+    "birthplaceLabel": "Odessa",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "34221",
+    "date_of_death": "1971-06-30T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q358525",
+    "astronautLabel": "Viktor Patsayev",
+    "birthdate": "1933-06-19T00:00:00Z",
+    "birthplaceLabel": "Aktobe",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "34221",
+    "date_of_death": "1971-06-30T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q601186",
+    "astronautLabel": "James M. Taylor",
+    "birthdate": "1930-11-27T00:00:00Z",
+    "birthplaceLabel": "Stamps",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1970-09-04T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q157931",
+    "astronautLabel": "Pavel Belyayev",
+    "birthdate": "1925-06-26T00:00:00Z",
+    "birthplaceLabel": "Q4508412",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1562",
+    "date_of_death": "1970-01-10T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q7327",
+    "astronautLabel": "Yuri Gagarin",
+    "birthdate": "1934-03-09T00:00:00Z",
+    "birthplaceLabel": "Klushino",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "108",
+    "date_of_death": "1968-03-27T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q391517",
+    "astronautLabel": "Robert Henry Lawrence",
+    "birthdate": "1935-10-02T00:00:00Z",
+    "birthplaceLabel": "Chicago",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "0",
+    "date_of_death": "1967-12-08T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1122204",
+    "astronautLabel": "Michael J. Adams",
+    "birthdate": "1930-05-05T00:00:00Z",
+    "birthplaceLabel": "Sacramento",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1967-11-15T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q709646",
+    "astronautLabel": "Clifton Williams",
+    "birthdate": "1932-09-26T00:00:00Z",
+    "birthplaceLabel": "Mobile",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1967-10-05T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q325474",
+    "astronautLabel": "Russell L. Rogers",
+    "birthdate": "1928-04-12T00:00:00Z",
+    "birthplaceLabel": "Lawrence",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1967-09-13T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q720191",
+    "astronautLabel": "Edward Givens",
+    "birthdate": "1930-01-05T00:00:00Z",
+    "birthplaceLabel": "Quanah",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1967-06-06T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q104865",
+    "astronautLabel": "Vladimir Komarov",
+    "birthdate": "1927-03-16T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "3064",
+    "date_of_death": "1967-04-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q216726",
+    "astronautLabel": "Edward Higgins White",
+    "birthdate": "1930-11-14T00:00:00Z",
+    "birthplaceLabel": "San Antonio",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "5876",
+    "date_of_death": "1967-01-27T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q110879",
+    "astronautLabel": "Gus Grissom",
+    "birthdate": "1926-04-03T00:00:00Z",
+    "birthplaceLabel": "Lawrence County",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "307",
+    "date_of_death": "1967-01-27T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q345678",
+    "astronautLabel": "Roger Bruce Chaffee",
+    "birthdate": "1935-02-15T00:00:00Z",
+    "birthplaceLabel": "Grand Rapids",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1967-01-27T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q708395",
+    "astronautLabel": "Joseph A. Walker",
+    "birthdate": "1921-02-20T00:00:00Z",
+    "birthplaceLabel": "Washington",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22",
+    "date_of_death": "1966-06-08T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q621462",
+    "astronautLabel": "Elliot See",
+    "birthdate": "1927-07-23T00:00:00Z",
+    "birthplaceLabel": "Dallas",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1966-02-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q704355",
+    "astronautLabel": "Charles Bassett",
+    "birthdate": "1931-12-30T00:00:00Z",
+    "birthplaceLabel": "Dayton",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1966-02-28T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1376859",
+    "astronautLabel": "Grigori Nelyubov",
+    "birthdate": "1934-03-31T00:00:00Z",
+    "birthplaceLabel": "Porfirivka",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1966-02-18T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q634141",
+    "astronautLabel": "Theodore Freeman",
+    "birthdate": "1930-02-18T00:00:00Z",
+    "birthplaceLabel": "Delaware County",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1964-10-31T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q538639",
+    "astronautLabel": "Valentin Bondarenko",
+    "birthdate": "1937-02-16T00:00:00Z",
+    "birthplaceLabel": "Kharkiv",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1961-03-23T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q707715",
+    "astronautLabel": "Mitrofan Nedelin",
+    "birthdate": "1902-11-09T00:00:00Z",
+    "birthplaceLabel": "Borisoglebsk",
+    "sex_or_genderLabel": "male",
+    "date_of_death": "1960-10-24T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q53662",
+    "astronautLabel": "Laika",
+    "birthdate": "1954-01-01T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "female organism",
+    "date_of_death": "1957-11-03T00:00:00Z"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q81129",
+    "astronautLabel": "Jügderdemidiin Gürragchaa",
+    "birthdate": "1947-12-05T00:00:00Z",
+    "birthplaceLabel": "Gurvanbulag",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q78552",
+    "astronautLabel": "Franz Viehböck",
+    "birthdate": "1960-08-24T00:00:00Z",
+    "birthplaceLabel": "Vienna",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q17519",
+    "astronautLabel": "Anousheh Ansari",
+    "birthdate": "1966-09-12T00:00:00Z",
+    "birthplaceLabel": "Mashhad",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q51754384",
+    "astronautLabel": "Myrtle Cagle",
+    "birthdate": "1925-06-03T00:00:00Z",
+    "birthplaceLabel": "South Carolina",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q50379793",
+    "astronautLabel": "Aleksej Homenčuk",
+    "birthdate": "1975-01-07T00:00:00Z",
+    "birthplaceLabel": "Dresden",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q50379760",
+    "astronautLabel": "Dmitrij Petelin",
+    "birthdate": "1983-07-10T00:00:00Z",
+    "birthplaceLabel": "Kostanay",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q50379726",
+    "astronautLabel": "Sergej Korsakov",
+    "birthdate": "1984-09-01T00:00:00Z",
+    "birthplaceLabel": "Bishkek",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q50379654",
+    "astronautLabel": "Ignat Ignatov",
+    "birthdate": "1982-03-20T00:00:00Z",
+    "birthplaceLabel": "Kremenchuk",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q50379610",
+    "astronautLabel": "Andrej Fedjaev",
+    "birthdate": "1981-02-26T00:00:00Z",
+    "birthplaceLabel": "Serov",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q50379496",
+    "astronautLabel": "Pёtr Dubrov",
+    "birthdate": "1978-01-30T00:00:00Z",
+    "birthplaceLabel": "Khabarovsk",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q50379072",
+    "astronautLabel": "Nikolaj Čud",
+    "birthdate": "1984-06-10T00:00:00Z",
+    "birthplaceLabel": "Novocherkassk",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q47467481",
+    "astronautLabel": "Sergej Kud'-Sverčkov",
+    "birthdate": "1983-08-23T00:00:00Z",
+    "birthplaceLabel": "Baikonur",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q47006333",
+    "astronautLabel": "Joshua Kutryk",
+    "birthdate": "1982-03-21T00:00:00Z",
+    "birthplaceLabel": "Fort Saskatchewan",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q46508957",
+    "astronautLabel": "Andrei Babkin",
+    "birthdate": "1969-04-21T00:00:00Z",
+    "birthplaceLabel": "Bryansk",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q42505551",
+    "astronautLabel": "Nadezhda Kuzhelnaya",
+    "birthdate": "1962-11-06T00:00:00Z",
+    "birthplaceLabel": "Alexeyevskoye, Republic of Tatarstan",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q32538663",
+    "astronautLabel": "Jennifer Sidey",
+    "birthdate": "1988-08-03T00:00:00Z",
+    "birthplaceLabel": "Calgary",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30611798",
+    "astronautLabel": "Robert Hines",
+    "birthdate": "1975-01-11T00:00:00Z",
+    "birthplaceLabel": "Fayetteville",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30315159",
+    "astronautLabel": "Francisco Rubio",
+    "birthdate": "1975-12-11T00:00:00Z",
+    "birthplaceLabel": "Los Angeles",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30202712",
+    "astronautLabel": "Jessica Watkins",
+    "birthdate": "1988-05-14T00:00:00Z",
+    "birthplaceLabel": "Gaithersburg",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157819",
+    "astronautLabel": "Kayla Barron",
+    "birthdate": "1987-09-19T00:00:00Z",
+    "birthplaceLabel": "Pocatello",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157794",
+    "astronautLabel": "Warren Hoburg",
+    "birthdate": "1985-09-16T00:00:00Z",
+    "birthplaceLabel": "Pittsburgh",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157793",
+    "astronautLabel": "Matthew Dominick",
+    "birthdate": "1981-12-07T00:00:00Z",
+    "birthplaceLabel": "Wheat Ridge",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157792",
+    "astronautLabel": "Raja Chari",
+    "birthdate": "1977-01-01T00:00:00Z",
+    "birthplaceLabel": "Milwaukee",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157791",
+    "astronautLabel": "Zena Cardman",
+    "birthdate": "1988-10-26T00:00:00Z",
+    "birthplaceLabel": "Urbana",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157742",
+    "astronautLabel": "Loral O'Hara",
+    "birthdate": "1983-05-03T00:00:00Z",
+    "birthplaceLabel": "Houston",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157739",
+    "astronautLabel": "Robb Kulin",
+    "birthdate": "1983-12-07T00:00:00Z",
+    "birthplaceLabel": "Anchorage",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157738",
+    "astronautLabel": "Jonny Kim",
+    "birthdate": "1984-02-05T00:00:00Z",
+    "birthplaceLabel": "Los Angeles",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q28540326",
+    "astronautLabel": "Matthias Maurer",
+    "birthdate": "1970-03-18T00:00:00Z",
+    "birthplaceLabel": "Sankt Wendel",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q27628138",
+    "astronautLabel": "Alyssa Carson",
+    "birthdate": "2001-03-10T00:00:00Z",
+    "birthplaceLabel": "Hammond",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q27336250",
+    "astronautLabel": "Chen Dong",
+    "birthdate": "1978-12-12T00:00:00Z",
+    "birthplaceLabel": "Luoyang",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q26255563",
+    "astronautLabel": "Q26255563",
+    "birthdate": "1969-04-21T00:00:00Z",
+    "birthplaceLabel": "Bryansk",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q21856852",
+    "astronautLabel": "Ivan Vagner",
+    "birthdate": "1985-07-10T00:00:00Z",
+    "birthplaceLabel": "Severoonezhsk",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q21699520",
+    "astronautLabel": "Q21699520",
+    "birthdate": "1964-09-01T00:00:00Z",
+    "birthplaceLabel": "Zama",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q21516580",
+    "astronautLabel": "Denis Matveev",
+    "birthdate": "1983-04-25T00:00:00Z",
+    "birthplaceLabel": "Saint Petersburg",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q21154027",
+    "astronautLabel": "Sergey Prokopyev",
+    "birthdate": "1975-02-19T00:00:00Z",
+    "birthplaceLabel": "Yekaterinburg",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q21106378",
+    "astronautLabel": "Q21106378",
+    "birthdate": "1983-04-25T00:00:00Z",
+    "birthplaceLabel": "Saint Petersburg",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q18352451",
+    "astronautLabel": "Anna Kikina",
+    "birthdate": "1984-08-27T00:00:00Z",
+    "birthplaceLabel": "Novosibirsk",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q18236847",
+    "astronautLabel": "Q18236847",
+    "birthdate": "1953-03-03T00:00:00Z",
+    "birthplaceLabel": "Volgograd",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16522978",
+    "astronautLabel": "Szergej Valerjevics Kosztyenko",
+    "birthdate": "1963-04-20T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16522811",
+    "astronautLabel": "Stanley Norbert Koszelak",
+    "birthdate": "1953-10-20T00:00:00Z",
+    "birthplaceLabel": "Oklahoma City",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16522713",
+    "astronautLabel": "Scott Duane Vangen",
+    "birthdate": "1959-12-12T00:00:00Z",
+    "birthplaceLabel": "Granite Falls",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16522333",
+    "astronautLabel": "Paul David Ronney",
+    "birthdate": "1957-05-01T00:00:00Z",
+    "birthplaceLabel": "Los Angeles",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16521963",
+    "astronautLabel": "Munir Habib Habib",
+    "birthdate": "1953-09-03T00:00:00Z",
+    "birthplaceLabel": "Jableh",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16521836",
+    "astronautLabel": "Michael Eugene Belt",
+    "birthdate": "1957-09-09T00:00:00Z",
+    "birthplaceLabel": "Syracuse",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16521492",
+    "astronautLabel": "Lawrence Retman Young",
+    "birthdate": "1935-12-19T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16521232",
+    "astronautLabel": "Kikucsi Rjóko",
+    "birthdate": "1964-09-15T00:00:00Z",
+    "birthplaceLabel": "Zama",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16521201",
+    "astronautLabel": "Kenneth Eric Money",
+    "birthdate": "1935-01-04T00:00:00Z",
+    "birthplaceLabel": "Toronto",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16521187",
+    "astronautLabel": "Keith Charles Wright",
+    "birthdate": "1947-08-31T00:00:00Z",
+    "birthplaceLabel": "St. Louis",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16521012",
+    "astronautLabel": "Jaroszlav Ihorevics Pusztovij",
+    "birthdate": "1970-12-29T00:00:00Z",
+    "birthplaceLabel": "Kostroma",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16518899",
+    "astronautLabel": "David Henry Matthiesen",
+    "birthdate": "1958-08-31T00:00:00Z",
+    "birthplaceLabel": "Blue Island",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16213049",
+    "astronautLabel": "Wally Funk",
+    "birthdate": "1939-01-31T00:00:00Z",
+    "birthplaceLabel": "New Mexico",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q16153519",
+    "astronautLabel": "Mukhtar Aymakhanov",
+    "birthdate": "1967-01-01T00:00:00Z",
+    "birthplaceLabel": "Zhosaly",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q15222587",
+    "astronautLabel": "Alexander William Dunlap",
+    "birthdate": "1960-07-15T00:00:00Z",
+    "birthplaceLabel": "Honolulu",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q15197198",
+    "astronautLabel": "Alan Eugene Johnston",
+    "birthdate": "1962-12-07T00:00:00Z",
+    "birthplaceLabel": "Nashville",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q15114656",
+    "astronautLabel": "Joseph Markel Prahl",
+    "birthdate": "1943-03-30T00:00:00Z",
+    "birthplaceLabel": "Beverly",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q14962576",
+    "astronautLabel": "Gerard Edward Magilton",
+    "birthdate": "1942-05-07T00:00:00Z",
+    "birthplaceLabel": "Philadelphia",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q14946486",
+    "astronautLabel": "Michael Warren Booen",
+    "birthdate": "1957-05-30T00:00:00Z",
+    "birthplaceLabel": "Malmstrom Air Force Base",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q14931491",
+    "astronautLabel": "Mary Helen Johnston",
+    "birthdate": "1945-09-17T00:00:00Z",
+    "birthplaceLabel": "West Palm Beach",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q14861711",
+    "astronautLabel": "Michael Lampton",
+    "birthdate": "1941-03-01T00:00:00Z",
+    "birthplaceLabel": "Williamsport",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q14492036",
+    "astronautLabel": "Fulier Michal",
+    "birthdate": "1955-02-20T00:00:00Z",
+    "birthplaceLabel": "Český Těšín",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13889299",
+    "astronautLabel": "Irina Rudolfovna Pronyina",
+    "birthdate": "1953-04-14T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13519676",
+    "astronautLabel": "Nikolai Tikhonov",
+    "birthdate": "1982-05-23T00:00:00Z",
+    "birthplaceLabel": "Novomoskovsk",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13500573",
+    "astronautLabel": "Nicole Mann",
+    "birthdate": "1977-06-27T00:00:00Z",
+    "birthplaceLabel": "Petaluma",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13500570",
+    "astronautLabel": "Anne McClain",
+    "birthdate": "1979-06-07T00:00:00Z",
+    "birthplaceLabel": "Spokane",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13500192",
+    "astronautLabel": "Christina Hammock",
+    "birthdate": "1979-02-02T00:00:00Z",
+    "birthplaceLabel": "Jacksonville",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13499227",
+    "astronautLabel": "Victor J. Glover",
+    "birthdate": "1976-04-30T00:00:00Z",
+    "birthplaceLabel": "Prosper",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13492872",
+    "astronautLabel": "Nick Hague",
+    "birthdate": "1975-09-24T00:00:00Z",
+    "birthplaceLabel": "Hoxie",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13484630",
+    "astronautLabel": "Josh A. Cassada",
+    "birthdate": "1973-07-18T00:00:00Z",
+    "birthplaceLabel": "White Bear Lake",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q12814990",
+    "astronautLabel": "Krasimir Stojanow",
+    "birthdate": "1961-01-24T00:00:00Z",
+    "birthplaceLabel": "Varna",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q12165555",
+    "astronautLabel": "Félicette",
+    "birthdate": "1963-01-01T00:00:00Z",
+    "birthplaceLabel": "Paris",
+    "sex_or_genderLabel": "female organism"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q11762815",
+    "astronautLabel": "Louis William Butterworth",
+    "birthdate": "1948-07-17T00:00:00Z",
+    "birthplaceLabel": "Casper",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q11337716",
+    "astronautLabel": "José Armando López Falcón",
+    "birthdate": "1950-02-08T00:00:00Z",
+    "birthplaceLabel": "Havana",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q9177589",
+    "astronautLabel": "Boris Polakow",
+    "birthdate": "1938-05-10T00:00:00Z",
+    "birthplaceLabel": "Rostov-on-Don",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q8070347",
+    "astronautLabel": "Zhang Xiaoguang",
+    "birthdate": "1966-05-01T00:00:00Z",
+    "birthplaceLabel": "Liaoning",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q7325625",
+    "astronautLabel": "Richard Farrimond",
+    "birthdate": "1947-09-15T00:00:00Z",
+    "birthplaceLabel": "Birkenhead",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q6740250",
+    "astronautLabel": "Maksim Ponomaryov",
+    "birthdate": "1980-02-20T00:00:00Z",
+    "birthplaceLabel": "Dresden",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q6695979",
+    "astronautLabel": "Luca Urbani",
+    "birthdate": "1957-05-11T00:00:00Z",
+    "birthplaceLabel": "Rome",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q6659656",
+    "astronautLabel": "Livingston L. Holder, Jr.",
+    "birthdate": "1956-09-29T00:00:00Z",
+    "birthplaceLabel": "Detroit",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q6390486",
+    "astronautLabel": "Ken Money",
+    "birthdate": "1935-04-01T00:00:00Z",
+    "birthplaceLabel": "Toronto",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q6246601",
+    "astronautLabel": "Neil Woodward",
+    "birthdate": "1962-07-26T00:00:00Z",
+    "birthplaceLabel": "Chicago",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q5511647",
+    "astronautLabel": "Félix Soto Toro",
+    "birthdate": "1967-01-01T00:00:00Z",
+    "birthplaceLabel": "Guaynabo",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q5112759",
+    "astronautLabel": "Christopher Loria",
+    "birthdate": "1960-07-09T00:00:00Z",
+    "birthplaceLabel": "Newton",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4831087",
+    "astronautLabel": "Aydyn Aimbetov",
+    "birthdate": "1972-07-27T00:00:00Z",
+    "birthplaceLabel": "Q13648886",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4666165",
+    "astronautLabel": "Abdulmohsen Al-Bassam",
+    "birthdate": "1948-12-12T00:00:00Z",
+    "birthplaceLabel": "Unaizah",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4057372",
+    "astronautLabel": "Nadia Adamchuk-Chala",
+    "birthdate": "1970-10-04T00:00:00Z",
+    "birthplaceLabel": "Kiev",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3625307",
+    "astronautLabel": "Donald Holmquest",
+    "birthdate": "1939-04-07T00:00:00Z",
+    "birthplaceLabel": "Dallas",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3574186",
+    "astronautLabel": "Yvonne Cagle",
+    "birthdate": "1959-04-24T00:00:00Z",
+    "birthplaceLabel": "West Point",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3501233",
+    "astronautLabel": "Konstantin Valkov",
+    "birthdate": "1971-11-11T00:00:00Z",
+    "birthplaceLabel": "Kamensk-Uralsky",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3479150",
+    "astronautLabel": "Serena M. Auñón-Chancellor",
+    "birthdate": "1976-04-09T00:00:00Z",
+    "birthplaceLabel": "Indianapolis",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3175883",
+    "astronautLabel": "Jeanette J. Epps",
+    "birthdate": "1970-11-03T00:00:00Z",
+    "birthplaceLabel": "Syracuse",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2632140",
+    "astronautLabel": "Faiz Khaleed",
+    "birthdate": "1980-09-15T00:00:00Z",
+    "birthplaceLabel": "Kuala Lumpur",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2143342",
+    "astronautLabel": "Renate Brümmer",
+    "birthdate": "1955-05-04T00:00:00Z",
+    "birthplaceLabel": "St. Gallen",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1687593",
+    "astronautLabel": "Jeremy Hansen",
+    "birthdate": "1976-01-27T00:00:00Z",
+    "birthplaceLabel": "London",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1246221",
+    "astronautLabel": "Ravish Malhotra",
+    "birthdate": "1943-12-25T00:00:00Z",
+    "birthplaceLabel": "Lahore",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1243689",
+    "astronautLabel": "Sergey Moshchenko",
+    "birthdate": "1954-01-12T00:00:00Z",
+    "birthplaceLabel": "Moscow Oblast",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1100745",
+    "astronautLabel": "Jevgenyij Vlagyimirovics Szalej",
+    "birthdate": "1950-01-01T00:00:00Z",
+    "birthplaceLabel": "Tavda",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1100407",
+    "astronautLabel": "Yekaterina Ivanova",
+    "birthdate": "1949-10-03T00:00:00Z",
+    "birthplaceLabel": "Saint Petersburg",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1100024",
+    "astronautLabel": "Clemens Lothaller",
+    "birthdate": "1963-05-08T00:00:00Z",
+    "birthplaceLabel": "Vienna",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q918798",
+    "astronautLabel": "Mike Melvill",
+    "birthdate": "1940-11-11T00:00:00Z",
+    "birthplaceLabel": "Johannesburg",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q916497",
+    "astronautLabel": "Zenon Jankowski",
+    "birthdate": "1937-11-22T00:00:00Z",
+    "birthplaceLabel": "Poznań",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q834956",
+    "astronautLabel": "Boris Andreyev",
+    "birthdate": "1940-10-06T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q823491",
+    "astronautLabel": "Maidarzhavyn Ganzorig",
+    "birthdate": "1949-02-05T00:00:00Z",
+    "birthplaceLabel": "Tsetserleg",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q722679",
+    "astronautLabel": "Jean-François Clervoy",
+    "birthdate": "1958-11-19T00:00:00Z",
+    "birthplaceLabel": "Longeville-lès-Metz",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q721397",
+    "astronautLabel": "Jean-Pierre Haigneré",
+    "birthdate": "1948-05-19T00:00:00Z",
+    "birthplaceLabel": "Paris",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q715126",
+    "astronautLabel": "Wu Jie",
+    "birthdate": "1963-01-01T00:00:00Z",
+    "birthplaceLabel": "Zhengzhou",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q704639",
+    "astronautLabel": "Rodolfo Neri Vela",
+    "birthdate": "1953-02-19T00:00:00Z",
+    "birthplaceLabel": "Chilpancingo",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q704554",
+    "astronautLabel": "Li Qinglong",
+    "birthdate": "1962-08-01T00:00:00Z",
+    "birthplaceLabel": "Chuzhou",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q601207",
+    "astronautLabel": "Francis G. Neubeck",
+    "birthdate": "1932-04-11T00:00:00Z",
+    "birthplaceLabel": "Washington, D.C.",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q560360",
+    "astronautLabel": "Talgat Musabayev",
+    "birthdate": "1951-01-07T00:00:00Z",
+    "birthplaceLabel": "Kargaly",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q313957",
+    "astronautLabel": "Sheikh Muszaphar Shukor",
+    "birthdate": "1972-07-27T00:00:00Z",
+    "birthplaceLabel": "Kuala Lumpur",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q210382",
+    "astronautLabel": "Yi So-Yeon",
+    "birthdate": "1978-06-02T00:00:00Z",
+    "birthplaceLabel": "Gwangju",
+    "sex_or_genderLabel": "female"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q210184",
+    "astronautLabel": "Dennis Tito",
+    "birthdate": "1940-08-08T00:00:00Z",
+    "birthplaceLabel": "Queens",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q116962",
+    "astronautLabel": "Claude Nicollier",
+    "birthdate": "1944-09-02T00:00:00Z",
+    "birthplaceLabel": "Vevey",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q434205",
+    "astronautLabel": "Jean-Loup Chrétien",
+    "birthdate": "1938-08-20T00:00:00Z",
+    "birthplaceLabel": "La Rochelle",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q430996",
+    "astronautLabel": "Muhammed Faris",
+    "birthdate": "1951-05-26T00:00:00Z",
+    "birthplaceLabel": "Aleppo",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q391079",
+    "astronautLabel": "James Alan Abrahamson",
+    "birthdate": "1933-05-19T00:00:00Z",
+    "birthplaceLabel": "Williston",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q379946",
+    "astronautLabel": "Sultan bin Salman Al Saud",
+    "birthdate": "1956-06-27T00:00:00Z",
+    "birthplaceLabel": "Riyadh",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q362902",
+    "astronautLabel": "Arnaldo Tamayo Méndez",
+    "birthdate": "1942-01-29T00:00:00Z",
+    "birthplaceLabel": "Guantánamo",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q361415",
+    "astronautLabel": "Mirosław Hermaszewski",
+    "birthdate": "1941-09-15T00:00:00Z",
+    "birthplaceLabel": "Lipniki, Wołyń Voivodeship",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q353687",
+    "astronautLabel": "Pham Tuan",
+    "birthdate": "1947-02-14T00:00:00Z",
+    "birthplaceLabel": "Thái Bình",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q325205",
+    "astronautLabel": "Rakesh Sharma",
+    "birthdate": "1949-01-13T00:00:00Z",
+    "birthplaceLabel": "Patiala",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q324141",
+    "astronautLabel": "Albert H. Crews",
+    "birthdate": "1929-03-23T00:00:00Z",
+    "birthplaceLabel": "El Dorado",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q495971",
+    "astronautLabel": "Lachlan Macleay",
+    "birthdate": "1931-06-13T00:00:00Z",
+    "birthplaceLabel": "St. Louis",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q494209",
+    "astronautLabel": "Ko San",
+    "birthdate": "1976-10-19T00:00:00Z",
+    "birthplaceLabel": "Busan",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q470059",
+    "astronautLabel": "Liu Wang",
+    "birthdate": "1969-03-25T00:00:00Z",
+    "birthplaceLabel": "Pingyao",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448320",
+    "astronautLabel": "David Saint-Jacques",
+    "birthdate": "1970-01-06T00:00:00Z",
+    "birthplaceLabel": "Quebec City",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q446692",
+    "astronautLabel": "Dumitru Prunariu",
+    "birthdate": "1952-09-27T00:00:00Z",
+    "birthplaceLabel": "Brașov",
+    "sex_or_genderLabel": "male"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q70853",
+    "astronautLabel": "Eberhard Köllner",
+    "birthdate": "1939-09-29T00:00:00Z",
+    "birthplaceLabel": "Staßfurt",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "0"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q30157740",
+    "astronautLabel": "Jasmin Moghbeli",
+    "birthdate": "1983-06-24T00:00:00Z",
+    "birthplaceLabel": "Bad Nauheim",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "0"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q13500735",
+    "astronautLabel": "Andrew R. Morgan",
+    "birthdate": "1976-02-05T00:00:00Z",
+    "birthplaceLabel": "New Castle",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "0"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3553627",
+    "astronautLabel": "Valentina Ponomaryova",
+    "birthdate": "1933-09-18T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "0"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2705403",
+    "astronautLabel": "Philip K. Chapman",
+    "birthdate": "1935-03-05T00:00:00Z",
+    "birthplaceLabel": "Melbourne",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "0"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q820606",
+    "astronautLabel": "Irina Solovyova",
+    "birthdate": "1937-09-06T00:00:00Z",
+    "birthplaceLabel": "Tula Oblast",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "0"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q533560",
+    "astronautLabel": "Marianne Merchez",
+    "birthdate": "1960-10-25T00:00:00Z",
+    "birthplaceLabel": "Uccle",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "0"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q456840",
+    "astronautLabel": "Georgi Ivanov",
+    "birthdate": "1940-07-02T00:00:00Z",
+    "birthplaceLabel": "Lovech",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "2821"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q440178",
+    "astronautLabel": "Vyacheslav Zudov",
+    "birthdate": "1942-01-08T00:00:00Z",
+    "birthplaceLabel": "Bor",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "2886"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q557082",
+    "astronautLabel": "Liu Boming",
+    "birthdate": "1966-09-16T00:00:00Z",
+    "birthplaceLabel": "Heilongjiang",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "4098"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q197135",
+    "astronautLabel": "Zhai Zhigang",
+    "birthdate": "1966-10-10T00:00:00Z",
+    "birthplaceLabel": "Longjiang County",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "4098"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q44371",
+    "astronautLabel": "Valentina Tereshkova",
+    "birthdate": "1937-03-06T00:00:00Z",
+    "birthplaceLabel": "Bolshoye Maslennikovo",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "4272"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1494855",
+    "astronautLabel": "Gary Payton",
+    "birthdate": "1948-06-20T00:00:00Z",
+    "birthplaceLabel": "Rock Island",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "4413"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1373573",
+    "astronautLabel": "William A. Pailes",
+    "birthdate": "1952-06-26T00:00:00Z",
+    "birthplaceLabel": "Hackensack",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "5864"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q344892",
+    "astronautLabel": "Fei Junlong",
+    "birthdate": "1965-05-05T00:00:00Z",
+    "birthplaceLabel": "Suzhou",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "6933"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1372222",
+    "astronautLabel": "Michael J. McCulley",
+    "birthdate": "1943-08-04T00:00:00Z",
+    "birthplaceLabel": "San Diego",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "7179"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q318965",
+    "astronautLabel": "Fred Haise",
+    "birthdate": "1933-11-14T00:00:00Z",
+    "birthplaceLabel": "Biloxi",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "8574"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q644029",
+    "astronautLabel": "Robert J. Cenker",
+    "birthdate": "1948-11-05T00:00:00Z",
+    "birthplaceLabel": "Uniontown",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "8763"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q358437",
+    "astronautLabel": "Bill Nelson",
+    "birthdate": "1942-09-29T00:00:00Z",
+    "birthplaceLabel": "Miami",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "8763"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q19242",
+    "astronautLabel": "Bill Anders",
+    "birthdate": "1933-10-17T00:00:00Z",
+    "birthplaceLabel": "British Hong Kong",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "8820"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q985049",
+    "astronautLabel": "Sherwood C. Spring",
+    "birthdate": "1944-09-03T00:00:00Z",
+    "birthplaceLabel": "Hartford",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "9904"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1373458",
+    "astronautLabel": "Thomas J. Hennen",
+    "birthdate": "1952-08-17T00:00:00Z",
+    "birthplaceLabel": "Albany",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10010"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q720172",
+    "astronautLabel": "Terry Hart",
+    "birthdate": "1946-10-27T00:00:00Z",
+    "birthplaceLabel": "Pittsburgh",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10060"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q519256",
+    "astronautLabel": "Jake Garn",
+    "birthdate": "1932-10-12T00:00:00Z",
+    "birthplaceLabel": "Richfield",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10075"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q719635",
+    "astronautLabel": "Lodewijk van den Berg",
+    "birthdate": "1932-03-24T00:00:00Z",
+    "birthplaceLabel": "Terneuzen",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10088"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q707736",
+    "astronautLabel": "Taylor Wang",
+    "birthdate": "1940-06-16T00:00:00Z",
+    "birthplaceLabel": "Shanghai",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10088"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q707626",
+    "astronautLabel": "Don L. Lind",
+    "birthdate": "1930-05-18T00:00:00Z",
+    "birthplaceLabel": "Midvale",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10088"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q154269",
+    "astronautLabel": "Alexey Leonov",
+    "birthdate": "1934-05-30T00:00:00Z",
+    "birthplaceLabel": "Tisulsky District",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10112"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q154269",
+    "astronautLabel": "Alexey Leonov",
+    "birthdate": "1934-05-30T00:00:00Z",
+    "birthplaceLabel": "Listvyanka, Irkutsk Oblast",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10112"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q215002",
+    "astronautLabel": "Ernst Messerschmid",
+    "birthdate": "1945-05-21T00:00:00Z",
+    "birthplaceLabel": "Reutlingen",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10124"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q254058",
+    "astronautLabel": "Patrick Baudry",
+    "birthdate": "1946-03-06T00:00:00Z",
+    "birthplaceLabel": "Douala",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10178"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q185560",
+    "astronautLabel": "William Frederick Fisher",
+    "birthdate": "1946-04-01T00:00:00Z",
+    "birthplaceLabel": "Dallas",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "10217"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q12865",
+    "astronautLabel": "Bertalan Farkas",
+    "birthdate": "1949-08-02T00:00:00Z",
+    "birthplaceLabel": "Gyulaháza",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11325"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q57229",
+    "astronautLabel": "Sigmund Jähn",
+    "birthdate": "1937-02-13T00:00:00Z",
+    "birthplaceLabel": "Morgenröthe-Rautenkranz",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11329"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q237473",
+    "astronautLabel": "Helen Sharman",
+    "birthdate": "1963-05-30T00:00:00Z",
+    "birthplaceLabel": "Sheffield",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "11353"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q285944",
+    "astronautLabel": "Toyohiro Akiyama",
+    "birthdate": "1942-07-22T00:00:00Z",
+    "birthplaceLabel": "Setagaya-ku",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11394"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448167",
+    "astronautLabel": "Ivan Bella",
+    "birthdate": "1964-05-25T00:00:00Z",
+    "birthplaceLabel": "Brezno",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11396"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q214974",
+    "astronautLabel": "Klaus-Dietrich Flade",
+    "birthdate": "1952-08-23T00:00:00Z",
+    "birthplaceLabel": "Büdesheim",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11397"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q468258",
+    "astronautLabel": "Toktar Aubakirov",
+    "birthdate": "1946-07-27T00:00:00Z",
+    "birthplaceLabel": "Karaganda",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11412"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q254985",
+    "astronautLabel": "Vladimír Remek",
+    "birthdate": "1948-09-26T00:00:00Z",
+    "birthplaceLabel": "České Budějovice",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11416"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q34091",
+    "astronautLabel": "Mae C. Jemison",
+    "birthdate": "1956-10-17T00:00:00Z",
+    "birthplaceLabel": "Decatur",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "11430.383333333"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1393554",
+    "astronautLabel": "John-David F. Bartoe",
+    "birthdate": "1944-11-17T00:00:00Z",
+    "birthplaceLabel": "Abington Township",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11445"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1338950",
+    "astronautLabel": "Roy D. Bridges",
+    "birthdate": "1943-07-19T00:00:00Z",
+    "birthplaceLabel": "Atlanta",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11445"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q732906",
+    "astronautLabel": "Loren Acton",
+    "birthdate": "1936-03-07T00:00:00Z",
+    "birthplaceLabel": "Lewistown",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11445"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q574124",
+    "astronautLabel": "Anthony W. England",
+    "birthdate": "1942-05-15T00:00:00Z",
+    "birthplaceLabel": "Indianapolis",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11445"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q957368",
+    "astronautLabel": "Franco Malerba",
+    "birthdate": "1946-10-10T00:00:00Z",
+    "birthplaceLabel": "Busalla",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11475"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q237470",
+    "astronautLabel": "Anna Lee Fisher",
+    "birthdate": "1949-08-24T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "11504"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q258385",
+    "astronautLabel": "Roberta Bondar",
+    "birthdate": "1945-12-04T00:00:00Z",
+    "birthplaceLabel": "Sault Ste. Marie",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "11626"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q718499",
+    "astronautLabel": "Jon McBride",
+    "birthdate": "1943-08-14T00:00:00Z",
+    "birthplaceLabel": "Charleston",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11843"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q493699",
+    "astronautLabel": "Paul Scully-Power",
+    "birthdate": "1944-05-28T00:00:00Z",
+    "birthplaceLabel": "Sydney",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11843"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q442233",
+    "astronautLabel": "Richard H. Truly",
+    "birthdate": "1937-11-12T00:00:00Z",
+    "birthplaceLabel": "Fayette",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "11961"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q935510",
+    "astronautLabel": "Joe F. Edwards",
+    "birthdate": "1958-02-03T00:00:00Z",
+    "birthplaceLabel": "Richmond",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "12708"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q77349",
+    "astronautLabel": "Abdul Ahad Mohmand",
+    "birthdate": "1959-01-01T00:00:00Z",
+    "birthplaceLabel": "Ghazni",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "12746"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q52494",
+    "astronautLabel": "Dirk Frimout",
+    "birthdate": "1941-03-21T00:00:00Z",
+    "birthplaceLabel": "Poperinge",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "12849"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q381541",
+    "astronautLabel": "Aleksei Yeliseyev",
+    "birthdate": "1934-07-13T00:00:00Z",
+    "birthplaceLabel": "Zhizdra",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "12860"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q201797",
+    "astronautLabel": "F. Drew Gaffney",
+    "birthdate": "1946-06-09T00:00:00Z",
+    "birthplaceLabel": "Carlsbad",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "13094"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q446243",
+    "astronautLabel": "Millie Hughes-Fulford",
+    "birthdate": "1945-12-21T00:00:00Z",
+    "birthplaceLabel": "Mineral Wells",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "13094"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q374034",
+    "astronautLabel": "Joe Engle",
+    "birthdate": "1932-08-26T00:00:00Z",
+    "birthplaceLabel": "Chapman",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "13470"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q535234",
+    "astronautLabel": "Konstantin Kozeyev",
+    "birthdate": "1967-12-01T00:00:00Z",
+    "birthplaceLabel": "Korolyov",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14159"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q444299",
+    "astronautLabel": "Aleksandr Panayotov Aleksandrov",
+    "birthdate": "1951-12-01T00:00:00Z",
+    "birthplaceLabel": "Omurtag",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14170"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q499636",
+    "astronautLabel": "Andreas Mogensen",
+    "birthdate": "1976-11-02T00:00:00Z",
+    "birthplaceLabel": "Copenhagen",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14174"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q438844",
+    "astronautLabel": "Gregory Olsen",
+    "birthdate": "1945-04-20T00:00:00Z",
+    "birthplaceLabel": "Brooklyn",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14235"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q317643",
+    "astronautLabel": "Marcos Pontes",
+    "birthdate": "1963-03-11T00:00:00Z",
+    "birthplaceLabel": "Bauru",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14237"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q227030",
+    "astronautLabel": "Mark Shuttleworth",
+    "birthdate": "1973-09-18T00:00:00Z",
+    "birthplaceLabel": "Welkom",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14245"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q730170",
+    "astronautLabel": "Yuri Shargin",
+    "birthdate": "1960-03-20T00:00:00Z",
+    "birthplaceLabel": "Engels",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14250"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2036753",
+    "astronautLabel": "Robert C. Springer",
+    "birthdate": "1942-05-21T00:00:00Z",
+    "birthplaceLabel": "St. Louis",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14252"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q313399",
+    "astronautLabel": "Vladimir Shatalov",
+    "birthdate": "1927-12-08T00:00:00Z",
+    "birthplaceLabel": "Petropavl",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14275"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q363506",
+    "astronautLabel": "Rusty Schweickart",
+    "birthdate": "1935-10-25T00:00:00Z",
+    "birthplaceLabel": "Neptune Township",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14460"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1371289",
+    "astronautLabel": "Mark N. Brown",
+    "birthdate": "1951-11-18T00:00:00Z",
+    "birthplaceLabel": "Valparaiso",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "14967"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q63610",
+    "astronautLabel": "Robert Satcher",
+    "birthdate": "1965-09-22T00:00:00Z",
+    "birthplaceLabel": "Hampton",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "15556"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q45137",
+    "astronautLabel": "Lee Morin",
+    "birthdate": "1952-09-09T00:00:00Z",
+    "birthplaceLabel": "Manchester",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "15582"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q372215",
+    "astronautLabel": "Walter Cunningham",
+    "birthdate": "1932-03-16T00:00:00Z",
+    "birthplaceLabel": "Creston",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "15608"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q488043",
+    "astronautLabel": "Anatoly Filipchenko",
+    "birthdate": "1928-02-26T00:00:00Z",
+    "birthplaceLabel": "Q4153831",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "15663"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q21842",
+    "astronautLabel": "Mary L. Cleave",
+    "birthdate": "1947-02-05T00:00:00Z",
+    "birthplaceLabel": "Southampton",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "15722"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q32266",
+    "astronautLabel": "Duane G. Carey",
+    "birthdate": "1957-04-30T00:00:00Z",
+    "birthplaceLabel": "Saint Paul",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "15730"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q112284",
+    "astronautLabel": "Charles Duke",
+    "birthdate": "1935-10-03T00:00:00Z",
+    "birthplaceLabel": "Charlotte",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "15951"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q104859",
+    "astronautLabel": "Michael Collins",
+    "birthdate": "1930-10-31T00:00:00Z",
+    "birthplaceLabel": "Rome",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "15964.716666667"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q215009",
+    "astronautLabel": "Gerhard Thiele",
+    "birthdate": "1953-09-02T00:00:00Z",
+    "birthplaceLabel": "Heidenheim an der Brenz",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "16179"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q468250",
+    "astronautLabel": "Vladimir Aksyonov",
+    "birthdate": "1935-02-01T00:00:00Z",
+    "birthplaceLabel": "Kasimovsky District",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17051"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q319269",
+    "astronautLabel": "Richard Garriott",
+    "birthdate": "1961-07-04T00:00:00Z",
+    "birthplaceLabel": "Cambridge",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17075"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q41432",
+    "astronautLabel": "Robert L. Stewart",
+    "birthdate": "1942-08-13T00:00:00Z",
+    "birthplaceLabel": "Washington, D.C.",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17329"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2252",
+    "astronautLabel": "Buzz Aldrin",
+    "birthdate": "1930-01-20T00:00:00Z",
+    "birthplaceLabel": "Glen Ridge",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17392"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q539385",
+    "astronautLabel": "Alfred Worden",
+    "birthdate": "1932-02-07T00:00:00Z",
+    "birthplaceLabel": "Jackson",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "17712"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q108886",
+    "astronautLabel": "Harrison Schmitt",
+    "birthdate": "1935-07-03T00:00:00Z",
+    "birthplaceLabel": "Santa Rita",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18112"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q235047",
+    "astronautLabel": "Barbara Morgan",
+    "birthdate": "1951-11-28T00:00:00Z",
+    "birthplaceLabel": "Fresno",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "18353"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q706859",
+    "astronautLabel": "Stanley G. Love",
+    "birthdate": "1965-06-08T00:00:00Z",
+    "birthplaceLabel": "San Diego",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18382"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q49264",
+    "astronautLabel": "Lisa Nowak",
+    "birthdate": "1963-05-10T00:00:00Z",
+    "birthplaceLabel": "Washington, D.C.",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "18396"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q24094",
+    "astronautLabel": "Paul W. Richards",
+    "birthdate": "1964-05-20T00:00:00Z",
+    "birthplaceLabel": "Scranton",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18469"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q725233",
+    "astronautLabel": "Bjarni Tryggvason",
+    "birthdate": "1945-09-21T00:00:00Z",
+    "birthplaceLabel": "Reykjavík",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18508"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q41597",
+    "astronautLabel": "Joan Higginbotham",
+    "birthdate": "1964-08-03T00:00:00Z",
+    "birthplaceLabel": "Chicago",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "18525"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q725848",
+    "astronautLabel": "William Oefelein",
+    "birthdate": "1965-03-29T00:00:00Z",
+    "birthplaceLabel": "Fort Belvoir",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18525"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q722106",
+    "astronautLabel": "Gregory C. Johnson",
+    "birthdate": "1954-07-30T00:00:00Z",
+    "birthplaceLabel": "Seattle",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18578"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q240701",
+    "astronautLabel": "K. Megan McArthur",
+    "birthdate": "1971-08-30T00:00:00Z",
+    "birthplaceLabel": "Honolulu",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "18578"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q540108",
+    "astronautLabel": "Bruce E. Melnick",
+    "birthdate": "1949-12-05T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18687"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q235266",
+    "astronautLabel": "Liu Yang",
+    "birthdate": "1978-10-06T00:00:00Z",
+    "birthplaceLabel": "Zhengzhou",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "18720"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q719926",
+    "astronautLabel": "William E. Thornton",
+    "birthdate": "1929-04-14T00:00:00Z",
+    "birthplaceLabel": "Faison",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18796"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q443994",
+    "astronautLabel": "Joseph P. Allen",
+    "birthdate": "1937-06-27T00:00:00Z",
+    "birthplaceLabel": "Crawfordsville",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18838"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q720160",
+    "astronautLabel": "John M. Fabian",
+    "birthdate": "1939-01-28T00:00:00Z",
+    "birthplaceLabel": "Baytown",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "18962"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1376909",
+    "astronautLabel": "Guy Gardner",
+    "birthdate": "1948-01-06T00:00:00Z",
+    "birthplaceLabel": "Altavista",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "19210"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1323571",
+    "astronautLabel": "Kenneth S. Reightler, Jr.",
+    "birthdate": "1951-03-24T00:00:00Z",
+    "birthplaceLabel": "Virginia Beach",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "19656"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q45082",
+    "astronautLabel": "John Herrington",
+    "birthdate": "1958-09-14T00:00:00Z",
+    "birthplaceLabel": "Wetumka",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "19847"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1336455",
+    "astronautLabel": "Lawrence J. DeLucas",
+    "birthdate": "1950-07-11T00:00:00Z",
+    "birthplaceLabel": "Syracuse",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "19890"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q562168",
+    "astronautLabel": "Eugene H. Trinh",
+    "birthdate": "1950-09-14T00:00:00Z",
+    "birthplaceLabel": "Ho Chi Minh City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "19890"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1266359",
+    "astronautLabel": "Philippe Perrin",
+    "birthdate": "1963-01-06T00:00:00Z",
+    "birthplaceLabel": "Meknes",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "19955"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q716333",
+    "astronautLabel": "Jose M. Hernandez",
+    "birthdate": "1962-08-07T00:00:00Z",
+    "birthplaceLabel": "French Camp",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "19974"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q45080",
+    "astronautLabel": "Charles Camarda",
+    "birthdate": "1952-05-08T00:00:00Z",
+    "birthplaceLabel": "Queens",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "20012"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q649109",
+    "astronautLabel": "James C. Adamson",
+    "birthdate": "1946-03-03T00:00:00Z",
+    "birthplaceLabel": "Warsaw",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "20061"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1904202",
+    "astronautLabel": "Martin J. Fettman",
+    "birthdate": "1956-12-31T00:00:00Z",
+    "birthplaceLabel": "Brooklyn",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "20172"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q718630",
+    "astronautLabel": "James P. Bagian",
+    "birthdate": "1952-02-22T00:00:00Z",
+    "birthplaceLabel": "Philadelphia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "20273"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q634822",
+    "astronautLabel": "James van Hoften",
+    "birthdate": "1944-06-11T00:00:00Z",
+    "birthplaceLabel": "Fresno",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "20277"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q364476",
+    "astronautLabel": "James McDivitt",
+    "birthdate": "1929-06-10T00:00:00Z",
+    "birthplaceLabel": "Chicago",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "20336"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q705626",
+    "astronautLabel": "Wang Yaping",
+    "birthdate": "1980-01-27T00:00:00Z",
+    "birthplaceLabel": "Yantai",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "21029"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1064074",
+    "astronautLabel": "Charles D. Walker",
+    "birthdate": "1948-08-29T00:00:00Z",
+    "birthplaceLabel": "Bedford",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "21380"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q720182",
+    "astronautLabel": "Mike Mullane",
+    "birthdate": "1945-09-10T00:00:00Z",
+    "birthplaceLabel": "Wichita Falls",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "21380"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q74018",
+    "astronautLabel": "James Dutton",
+    "birthdate": "1968-11-20T00:00:00Z",
+    "birthplaceLabel": "Eugene",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "21767"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q74015",
+    "astronautLabel": "Dorothy M. Metcalf-Lindenburger",
+    "birthdate": "1975-05-02T00:00:00Z",
+    "birthplaceLabel": "Colorado Springs",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "21767"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q232692",
+    "astronautLabel": "Naoko Yamazaki",
+    "birthdate": "1970-12-27T00:00:00Z",
+    "birthplaceLabel": "Matsudo",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "21767"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461840",
+    "astronautLabel": "Jing Haipeng",
+    "birthdate": "1966-10-24T00:00:00Z",
+    "birthplaceLabel": "Yuncheng",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22260"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q956842",
+    "astronautLabel": "Maurizio Cheli",
+    "birthdate": "1959-05-04T00:00:00Z",
+    "birthplaceLabel": "Zocca",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22661"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q520176",
+    "astronautLabel": "Robert S. Kimbrough",
+    "birthdate": "1967-06-04T00:00:00Z",
+    "birthplaceLabel": "Killeen",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22830.566666667"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2036814",
+    "astronautLabel": "Albert Sacco",
+    "birthdate": "1949-05-03T00:00:00Z",
+    "birthplaceLabel": "Boston",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22894"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q978562",
+    "astronautLabel": "Frederick W. Leslie",
+    "birthdate": "1951-12-19T00:00:00Z",
+    "birthplaceLabel": "Panama",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22894"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1338895",
+    "astronautLabel": "Jay C. Buckey",
+    "birthdate": "1956-06-06T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22910"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q971200",
+    "astronautLabel": "James A. Pawelczyk",
+    "birthdate": "1960-09-20T00:00:00Z",
+    "birthplaceLabel": "Saskatoon",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22910"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q995007",
+    "astronautLabel": "Bryan D. O'Connor",
+    "birthdate": "1946-09-06T00:00:00Z",
+    "birthplaceLabel": "Orange",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "22998"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q180499",
+    "astronautLabel": "Karol J. Bobko",
+    "birthdate": "1937-12-23T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "23163"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q717641",
+    "astronautLabel": "Loren Shriver",
+    "birthdate": "1944-09-23T00:00:00Z",
+    "birthplaceLabel": "Jefferson",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "23164"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q324774",
+    "astronautLabel": "William G. Gregory",
+    "birthdate": "1957-05-14T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "23948"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q718729",
+    "astronautLabel": "John Oliver Creighton",
+    "birthdate": "1943-04-28T00:00:00Z",
+    "birthplaceLabel": "Orange",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "24264"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q935071",
+    "astronautLabel": "Jean-Jacques Favier",
+    "birthdate": "1949-04-13T00:00:00Z",
+    "birthplaceLabel": "Kehl",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "24348"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q519124",
+    "astronautLabel": "George Nelson",
+    "birthdate": "1950-07-13T00:00:00Z",
+    "birthplaceLabel": "Charles City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "24643"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1334023",
+    "astronautLabel": "Ronald M. Sega",
+    "birthdate": "1952-12-04T00:00:00Z",
+    "birthplaceLabel": "Macedonia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "25225"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q720124",
+    "astronautLabel": "Frederick Hauck",
+    "birthdate": "1941-04-11T00:00:00Z",
+    "birthplaceLabel": "Long Beach",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "26107"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q822249",
+    "astronautLabel": "Bernard A. Harris, Jr.",
+    "birthdate": "1956-06-26T00:00:00Z",
+    "birthplaceLabel": "Temple",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "26288"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1339046",
+    "astronautLabel": "Michel Tognini",
+    "birthdate": "1949-09-30T00:00:00Z",
+    "birthplaceLabel": "Vincennes",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "26986"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q268912",
+    "astronautLabel": "Mary Ellen Weber",
+    "birthdate": "1962-08-24T00:00:00Z",
+    "birthplaceLabel": "Cleveland",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "27030"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448547",
+    "astronautLabel": "Pedro Duque",
+    "birthdate": "1963-03-14T00:00:00Z",
+    "birthplaceLabel": "Madrid",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "27046"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q557066",
+    "astronautLabel": "Frederick D. Gregory",
+    "birthdate": "1941-01-07T00:00:00Z",
+    "birthplaceLabel": "Washington, D.C.",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "27304"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q521395",
+    "astronautLabel": "Mamoru Mohri",
+    "birthdate": "1948-01-29T00:00:00Z",
+    "birthplaceLabel": "Yoichi",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "27609"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1018622",
+    "astronautLabel": "Byron K. Lichtenberg",
+    "birthdate": "1948-02-19T00:00:00Z",
+    "birthplaceLabel": "Stroudsburg",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "27716"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1866915",
+    "astronautLabel": "L. Blaine Hammond",
+    "birthdate": "1952-01-16T00:00:00Z",
+    "birthplaceLabel": "Savannah",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "27731"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q534597",
+    "astronautLabel": "Robert A. Parker",
+    "birthdate": "1936-12-14T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "27772"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q720194",
+    "astronautLabel": "Michael Coats",
+    "birthdate": "1946-01-16T00:00:00Z",
+    "birthplaceLabel": "Sacramento",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "27836"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q472683",
+    "astronautLabel": "Nie Haisheng",
+    "birthdate": "1964-10-13T00:00:00Z",
+    "birthplaceLabel": "Zaoyang City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "27961"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q48998",
+    "astronautLabel": "Susan Kilrain",
+    "birthdate": "1961-10-24T00:00:00Z",
+    "birthplaceLabel": "Augusta",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "28318"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1355634",
+    "astronautLabel": "Gregory T. Linteris",
+    "birthdate": "1957-10-04T00:00:00Z",
+    "birthplaceLabel": "Englewood",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "28318"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q749845",
+    "astronautLabel": "Roger K. Crouch",
+    "birthdate": "1940-09-12T00:00:00Z",
+    "birthplaceLabel": "Jamestown",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "28318"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q215140",
+    "astronautLabel": "Reinhold Ewald",
+    "birthdate": "1956-12-18T00:00:00Z",
+    "birthplaceLabel": "Mönchengladbach",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "28354"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q152318",
+    "astronautLabel": "Svetlana Savitskaya",
+    "birthdate": "1948-08-08T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "28386"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q520760",
+    "astronautLabel": "Yuri Baturin",
+    "birthdate": "1949-06-12T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "28424"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q18762",
+    "astronautLabel": "Frank Borman",
+    "birthdate": "1928-03-14T00:00:00Z",
+    "birthplaceLabel": "Gary",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "28655"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q938350",
+    "astronautLabel": "Carlos I. Noruega",
+    "birthdate": "1959-10-08T00:00:00Z",
+    "birthplaceLabel": "Lima",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "28878"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2032646",
+    "astronautLabel": "Sidney M. Gutierrez",
+    "birthdate": "1951-06-27T00:00:00Z",
+    "birthplaceLabel": "Albuquerque",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "29283"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q692263",
+    "astronautLabel": "James Buchli",
+    "birthdate": "1945-06-20T00:00:00Z",
+    "birthplaceLabel": "New Rockford",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "29425"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1173930",
+    "astronautLabel": "David C. Hilmers",
+    "birthdate": "1950-01-28T00:00:00Z",
+    "birthplaceLabel": "Clinton",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "29656"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q159681",
+    "astronautLabel": "Valery Bykovsky",
+    "birthdate": "1934-08-02T00:00:00Z",
+    "birthplaceLabel": "Pavlovsky Posad",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "29868"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q316417",
+    "astronautLabel": "Thomas P. Stafford",
+    "birthdate": "1930-09-17T00:00:00Z",
+    "birthplaceLabel": "Oklahoma",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "30462"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q318513",
+    "astronautLabel": "Ken Mattingly",
+    "birthdate": "1936-03-17T00:00:00Z",
+    "birthplaceLabel": "Chicago",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "30514"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q531065",
+    "astronautLabel": "Steve MacLean",
+    "birthdate": "1954-12-14T00:00:00Z",
+    "birthplaceLabel": "Ottawa",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "31202"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1174077",
+    "astronautLabel": "David Leestma",
+    "birthdate": "1949-05-06T00:00:00Z",
+    "birthplaceLabel": "Muskegon",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "31952"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q464166",
+    "astronautLabel": "Kathryn D. Sullivan",
+    "birthdate": "1951-10-03T00:00:00Z",
+    "birthplaceLabel": "Paterson",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "31969"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q497530",
+    "astronautLabel": "Brewster H. Shaw",
+    "birthdate": "1945-05-16T00:00:00Z",
+    "birthplaceLabel": "Cass City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "32031"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q213605",
+    "astronautLabel": "Hans Schlegel",
+    "birthdate": "1951-08-03T00:00:00Z",
+    "birthplaceLabel": "Überlingen",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "32762"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q278656",
+    "astronautLabel": "David Scott",
+    "birthdate": "1932-06-06T00:00:00Z",
+    "birthplaceLabel": "San Antonio",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "32813"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1899032",
+    "astronautLabel": "Mario Runco, Jr.",
+    "birthdate": "1952-01-26T00:00:00Z",
+    "birthplaceLabel": "The Bronx",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "33068"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q378952",
+    "astronautLabel": "Kenneth D. Cameron",
+    "birthdate": "1949-11-29T00:00:00Z",
+    "birthplaceLabel": "Cleveland",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "33731"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q632907",
+    "astronautLabel": "Leland D. Melvin",
+    "birthdate": "1964-02-15T00:00:00Z",
+    "birthplaceLabel": "Lynchburg",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "33928"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q315737",
+    "astronautLabel": "Robert Crippen",
+    "birthdate": "1937-09-11T00:00:00Z",
+    "birthplaceLabel": "Beaumont",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "33946"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q32305",
+    "astronautLabel": "Stephen Frick",
+    "birthdate": "1964-09-30T00:00:00Z",
+    "birthplaceLabel": "Pittsburgh",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "33964"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q234306",
+    "astronautLabel": "Chiaki Mukai",
+    "birthdate": "1952-05-06T00:00:00Z",
+    "birthplaceLabel": "Tatebayashi",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "34059"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q32295",
+    "astronautLabel": "Michael J. Massimino",
+    "birthdate": "1962-08-19T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "34308"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1064149",
+    "astronautLabel": "Charles D. Gemar",
+    "birthdate": "1955-08-04T00:00:00Z",
+    "birthplaceLabel": "Yankton",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "34898"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q440266",
+    "astronautLabel": "Dominic A. Antonelli",
+    "birthdate": "1967-08-23T00:00:00Z",
+    "birthplaceLabel": "Detroit",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "35398"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q573719",
+    "astronautLabel": "Winston E. Scott",
+    "birthdate": "1950-08-06T00:00:00Z",
+    "birthplaceLabel": "Miami",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "35435"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q706965",
+    "astronautLabel": "Michael T. Good",
+    "birthdate": "1962-10-13T00:00:00Z",
+    "birthplaceLabel": "Parma",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "35646"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1240263",
+    "astronautLabel": "Donald R. McMonagle",
+    "birthdate": "1952-05-14T00:00:00Z",
+    "birthplaceLabel": "Flint",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "36334"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q240769",
+    "astronautLabel": "Julie Payette",
+    "birthdate": "1963-10-20T00:00:00Z",
+    "birthplaceLabel": "Montreal",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "36717"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q260217",
+    "astronautLabel": "Kenneth Ham",
+    "birthdate": "1964-12-12T00:00:00Z",
+    "birthplaceLabel": "Plainfield",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "36761"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q643556",
+    "astronautLabel": "Alvin Drew",
+    "birthdate": "1962-11-05T00:00:00Z",
+    "birthplaceLabel": "Washington, D.C.",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "36780"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1384803",
+    "astronautLabel": "Samuel T. Durrance",
+    "birthdate": "1943-09-17T00:00:00Z",
+    "birthplaceLabel": "Tallahassee",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "36853"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q235580",
+    "astronautLabel": "Claudie Haigneré",
+    "birthdate": "1957-05-13T00:00:00Z",
+    "birthplaceLabel": "Le Creusot",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "36862"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q491064",
+    "astronautLabel": "Ronald J. Grabe",
+    "birthdate": "1945-06-13T00:00:00Z",
+    "birthplaceLabel": "New York City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "37658"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q561878",
+    "astronautLabel": "Michael Foreman",
+    "birthdate": "1957-03-29T00:00:00Z",
+    "birthplaceLabel": "Columbus",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "38247"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q49819",
+    "astronautLabel": "Charles Simonyi",
+    "birthdate": "1948-09-10T00:00:00Z",
+    "birthplaceLabel": "Budapest",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "38307"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q706899",
+    "astronautLabel": "Nicholas Patrick",
+    "birthdate": "1964-11-19T00:00:00Z",
+    "birthplaceLabel": "Saltburn-by-the-Sea",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "38332"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448243",
+    "astronautLabel": "Lee Archambault",
+    "birthdate": "1960-08-25T00:00:00Z",
+    "birthplaceLabel": "Oak Park",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "38373.283333333"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q24083",
+    "astronautLabel": "James M. Kelly",
+    "birthdate": "1964-05-14T00:00:00Z",
+    "birthplaceLabel": "Burlington",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "38481"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q317382",
+    "astronautLabel": "Christer Fuglesang",
+    "birthdate": "1957-03-18T00:00:00Z",
+    "birthplaceLabel": "Nacka",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "38498"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q658221",
+    "astronautLabel": "Richard O. Covey",
+    "birthdate": "1946-08-01T00:00:00Z",
+    "birthplaceLabel": "Fayetteville",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "38709"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q281819",
+    "astronautLabel": "Pierre J. Thuot",
+    "birthdate": "1955-05-19T00:00:00Z",
+    "birthplaceLabel": "Groton",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "39291"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q727572",
+    "astronautLabel": "Umberto Guidoni",
+    "birthdate": "1954-08-18T00:00:00Z",
+    "birthplaceLabel": "Rome",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "39792"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q45139",
+    "astronautLabel": "Paul Lockhart",
+    "birthdate": "1956-04-28T00:00:00Z",
+    "birthplaceLabel": "Amarillo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "39803"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q51773",
+    "astronautLabel": "Heidemarie Stefanyshyn-Piper",
+    "birthdate": "1963-02-07T00:00:00Z",
+    "birthplaceLabel": "Saint Paul",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "39816.2"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1345924",
+    "astronautLabel": "Jeffrey Ashby",
+    "birthdate": "1954-06-01T00:00:00Z",
+    "birthplaceLabel": "Dallas",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "39859"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q471513",
+    "astronautLabel": "John D. Olivas",
+    "birthdate": "1965-05-25T00:00:00Z",
+    "birthplaceLabel": "Hollywood",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "39905"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1371854",
+    "astronautLabel": "Michael R. Clifford",
+    "birthdate": "1952-10-13T00:00:00Z",
+    "birthplaceLabel": "San Bernardino",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "39984"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1429300",
+    "astronautLabel": "William F. Readdy",
+    "birthdate": "1952-01-24T00:00:00Z",
+    "birthplaceLabel": "Quonset Point",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "40364"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q446917",
+    "astronautLabel": "Joseph P. Kerwin",
+    "birthdate": "1932-02-19T00:00:00Z",
+    "birthplaceLabel": "Oak Park",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "40370"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q29527",
+    "astronautLabel": "Jan Davis",
+    "birthdate": "1953-11-01T00:00:00Z",
+    "birthplaceLabel": "Cocoa Beach",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "40447"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q25011",
+    "astronautLabel": "Charles Bolden",
+    "birthdate": "1946-08-19T00:00:00Z",
+    "birthplaceLabel": "Columbia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "40837"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q120793",
+    "astronautLabel": "Douglas G. Hurley",
+    "birthdate": "1966-10-21T00:00:00Z",
+    "birthplaceLabel": "Endicott",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "40992"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q264460",
+    "astronautLabel": "Ellen S. Baker",
+    "birthdate": "1953-04-27T00:00:00Z",
+    "birthplaceLabel": "Fayetteville",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "41191"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461821",
+    "astronautLabel": "Eric Boe",
+    "birthdate": "1964-10-01T00:00:00Z",
+    "birthplaceLabel": "Miami",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "41254"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q471380",
+    "astronautLabel": "Dafydd Williams",
+    "birthdate": "1954-05-16T00:00:00Z",
+    "birthplaceLabel": "Saskatoon",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "41267"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q528943",
+    "astronautLabel": "Guion Bluford",
+    "birthdate": "1942-11-22T00:00:00Z",
+    "birthplaceLabel": "Philadelphia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "41313"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q447334",
+    "astronautLabel": "George D. Zamka",
+    "birthdate": "1962-06-29T00:00:00Z",
+    "birthplaceLabel": "Jersey City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "41552"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q703321",
+    "astronautLabel": "Marc Garneau",
+    "birthdate": "1949-02-23T00:00:00Z",
+    "birthplaceLabel": "Quebec City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "41881"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1376966",
+    "astronautLabel": "Kevin P. Chilton",
+    "birthdate": "1954-11-03T00:00:00Z",
+    "birthplaceLabel": "Los Angeles",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "42262"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q523835",
+    "astronautLabel": "Robert L. Behnken",
+    "birthdate": "1970-07-28T00:00:00Z",
+    "birthplaceLabel": "Creve Coeur",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "42497"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q41606",
+    "astronautLabel": "Kathryn P. Hire",
+    "birthdate": "1959-08-26T00:00:00Z",
+    "birthplaceLabel": "Mobile",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "42719.016666667"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1800097",
+    "astronautLabel": "Carl J. Meade",
+    "birthdate": "1950-11-16T00:00:00Z",
+    "birthplaceLabel": "Rantoul",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "42734"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q111240",
+    "astronautLabel": "Jim Lovell",
+    "birthdate": "1928-03-25T00:00:00Z",
+    "birthplaceLabel": "Cleveland",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "42903"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q254298",
+    "astronautLabel": "Margaret Rhea Seddon",
+    "birthdate": "1947-11-08T00:00:00Z",
+    "birthplaceLabel": "Murfreesboro",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "43341"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1162918",
+    "astronautLabel": "Daniel T. Barry",
+    "birthdate": "1953-12-30T00:00:00Z",
+    "birthplaceLabel": "Norwalk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "44067"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q463833",
+    "astronautLabel": "Vance D. Brand",
+    "birthdate": "1931-05-09T00:00:00Z",
+    "birthplaceLabel": "Longmont",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "44762"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q520166",
+    "astronautLabel": "Gregory H. Johnson",
+    "birthdate": "1962-05-12T00:00:00Z",
+    "birthplaceLabel": "South Ruislip station",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "45350"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461887",
+    "astronautLabel": "Takao Doi",
+    "birthdate": "1954-09-18T00:00:00Z",
+    "birthplaceLabel": "Tokyo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "45815"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q607394",
+    "astronautLabel": "Richard Hieb",
+    "birthdate": "1955-09-21T00:00:00Z",
+    "birthplaceLabel": "Jamestown",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "45994"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q660570",
+    "astronautLabel": "Steven Hawley",
+    "birthdate": "1951-12-12T00:00:00Z",
+    "birthplaceLabel": "Ottawa",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "46242"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q703865",
+    "astronautLabel": "Michael J. Bloomfield",
+    "birthdate": "1959-03-16T00:00:00Z",
+    "birthplaceLabel": "Flint",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "46742"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q722513",
+    "astronautLabel": "Daniel Brandenstein",
+    "birthdate": "1943-01-17T00:00:00Z",
+    "birthplaceLabel": "Watertown",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "47343"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q746108",
+    "astronautLabel": "Mark C. Lee",
+    "birthdate": "1952-08-14T00:00:00Z",
+    "birthplaceLabel": "Viroqua",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "47386"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q265261",
+    "astronautLabel": "Janet L. Kavandi",
+    "birthdate": "1959-07-17T00:00:00Z",
+    "birthplaceLabel": "Springfield",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "48728"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2036770",
+    "astronautLabel": "Richard N. Richards",
+    "birthdate": "1946-08-24T00:00:00Z",
+    "birthplaceLabel": "Key West",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "48809"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1372276",
+    "astronautLabel": "Stephen S. Oswald",
+    "birthdate": "1951-06-30T00:00:00Z",
+    "birthplaceLabel": "Seattle",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "48870"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q539337",
+    "astronautLabel": "Thomas Akers",
+    "birthdate": "1951-05-20T00:00:00Z",
+    "birthplaceLabel": "St. Louis",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "48884"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1545374",
+    "astronautLabel": "Gregory J. Harbaugh",
+    "birthdate": "1956-04-15T00:00:00Z",
+    "birthplaceLabel": "Cleveland",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "49079"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1338925",
+    "astronautLabel": "John Casper",
+    "birthdate": "1943-07-09T00:00:00Z",
+    "birthplaceLabel": "Greenville",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "49552"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q557585",
+    "astronautLabel": "Stephen Robinson",
+    "birthdate": "1955-10-26T00:00:00Z",
+    "birthplaceLabel": "Sacramento",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "49904"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q957250",
+    "astronautLabel": "Jerome Apt",
+    "birthdate": "1949-04-28T00:00:00Z",
+    "birthplaceLabel": "Springfield",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "50830"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q739214",
+    "astronautLabel": "James F. Reilly",
+    "birthdate": "1954-03-18T00:00:00Z",
+    "birthplaceLabel": "Mountain Home Air Force Base",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "51034"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448520",
+    "astronautLabel": "Roberto Vittori",
+    "birthdate": "1964-10-15T00:00:00Z",
+    "birthplaceLabel": "Viterbo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "51146"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q498775",
+    "astronautLabel": "Robert L. Gibson",
+    "birthdate": "1946-10-30T00:00:00Z",
+    "birthplaceLabel": "Long Beach",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "52095"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q29650",
+    "astronautLabel": "Charles O. Hobaugh",
+    "birthdate": "1961-11-05T00:00:00Z",
+    "birthplaceLabel": "Bar Harbor",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "52307"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q447304",
+    "astronautLabel": "Rex J. Walheim",
+    "birthdate": "1962-10-10T00:00:00Z",
+    "birthplaceLabel": "Redwood City",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "52351"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q948775",
+    "astronautLabel": "Robert Curbeam",
+    "birthdate": "1962-03-05T00:00:00Z",
+    "birthplaceLabel": "Baltimore",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "54153.383"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q506349",
+    "astronautLabel": "Andrew M. Allen",
+    "birthdate": "1955-08-04T00:00:00Z",
+    "birthplaceLabel": "Philadelphia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "54240"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1338436",
+    "astronautLabel": "Robert D. Cabana",
+    "birthdate": "1943-01-23T00:00:00Z",
+    "birthplaceLabel": "Minneapolis",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "54642"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q433337",
+    "astronautLabel": "Linda M. Godwin",
+    "birthdate": "1952-07-02T00:00:00Z",
+    "birthplaceLabel": "Cape Girardeau",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "55093"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q229635",
+    "astronautLabel": "Eileen Collins",
+    "birthdate": "1956-11-19T00:00:00Z",
+    "birthplaceLabel": "Elmira",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "55210"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q382247",
+    "astronautLabel": "Scott Altman",
+    "birthdate": "1959-08-15T00:00:00Z",
+    "birthplaceLabel": "Lincoln",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "55632"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q239960",
+    "astronautLabel": "Pamela Melroy",
+    "birthdate": "1961-09-17T00:00:00Z",
+    "birthplaceLabel": "Palo Alto",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "55924"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1065133",
+    "astronautLabel": "Charles J. Precourt",
+    "birthdate": "1955-06-29T00:00:00Z",
+    "birthplaceLabel": "Waltham",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "55936"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q29648",
+    "astronautLabel": "Patrick Forrester",
+    "birthdate": "1957-03-31T00:00:00Z",
+    "birthplaceLabel": "El Paso",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "57018"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q378949",
+    "astronautLabel": "Steven Smith",
+    "birthdate": "1958-12-30T00:00:00Z",
+    "birthplaceLabel": "Phoenix",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "57616"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1926804",
+    "astronautLabel": "Michael A. Baker",
+    "birthdate": "1953-10-27T00:00:00Z",
+    "birthplaceLabel": "Memphis",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "57899"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q463086",
+    "astronautLabel": "Stephen Bowen",
+    "birthdate": "1964-02-13T00:00:00Z",
+    "birthplaceLabel": "Cohasset",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "58202"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q447057",
+    "astronautLabel": "Christopher Ferguson",
+    "birthdate": "1961-09-01T00:00:00Z",
+    "birthplaceLabel": "Philadelphia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "58203"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q289337",
+    "astronautLabel": "Kathryn C. Thornton",
+    "birthdate": "1952-08-17T00:00:00Z",
+    "birthplaceLabel": "Montgomery",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "58514"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q912120",
+    "astronautLabel": "Brian Duffy",
+    "birthdate": "1953-06-20T00:00:00Z",
+    "birthplaceLabel": "Boston",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "58657"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q473221",
+    "astronautLabel": "Mark L. Polansky",
+    "birthdate": "1956-06-02T00:00:00Z",
+    "birthplaceLabel": "Paterson",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "59690"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q29515",
+    "astronautLabel": "Nancy J. Currie",
+    "birthdate": "1958-12-29T00:00:00Z",
+    "birthplaceLabel": "Wilmington",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "59972"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q725339",
+    "astronautLabel": "Brent W. Jett",
+    "birthdate": "1958-10-05T00:00:00Z",
+    "birthplaceLabel": "Pontiac",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "60121"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q938428",
+    "astronautLabel": "Terrence W. Wilcutt",
+    "birthdate": "1949-10-31T00:00:00Z",
+    "birthplaceLabel": "Russellville",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "60485"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q49269",
+    "astronautLabel": "Ellen Ochoa",
+    "birthdate": "1958-05-10T00:00:00Z",
+    "birthplaceLabel": "Los Angeles",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "60960"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1407313",
+    "astronautLabel": "Terence T. Henricks",
+    "birthdate": "1952-07-05T00:00:00Z",
+    "birthplaceLabel": "Bryan",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "61598"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q55178",
+    "astronautLabel": "Stephanie Wilson",
+    "birthdate": "1966-09-27T00:00:00Z",
+    "birthplaceLabel": "Boston",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "61906"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q704147",
+    "astronautLabel": "Michael L. Gernhardt",
+    "birthdate": "1956-05-04T00:00:00Z",
+    "birthplaceLabel": "Mansfield",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "62341"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1239684",
+    "astronautLabel": "Donald A. Thomas",
+    "birthdate": "1955-05-06T00:00:00Z",
+    "birthplaceLabel": "Cleveland",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "62413"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q798166",
+    "astronautLabel": "James H. Newman",
+    "birthdate": "1956-10-16T00:00:00Z",
+    "birthplaceLabel": "Federated States of Micronesia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "62527"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q260329",
+    "astronautLabel": "Joseph R. Tanner",
+    "birthdate": "1950-01-21T00:00:00Z",
+    "birthplaceLabel": "Danville",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "62715"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1333261",
+    "astronautLabel": "Peter Wisoff",
+    "birthdate": "1958-08-16T00:00:00Z",
+    "birthplaceLabel": "Norfolk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "63849"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q703819",
+    "astronautLabel": "Scott J. Horowitz",
+    "birthdate": "1957-03-24T00:00:00Z",
+    "birthplaceLabel": "Philadelphia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "68321"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q706939",
+    "astronautLabel": "Dominic L. Pudwill Gorie",
+    "birthdate": "1957-05-02T00:00:00Z",
+    "birthplaceLabel": "Lake Charles",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "70566"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q382184",
+    "astronautLabel": "Vitaly Zholobov",
+    "birthdate": "1937-06-18T00:00:00Z",
+    "birthplaceLabel": "Stara Zburivka",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "70943"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q215124",
+    "astronautLabel": "Ulf Merbold",
+    "birthdate": "1941-06-20T00:00:00Z",
+    "birthplaceLabel": "Greiz",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "71856"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q29618",
+    "astronautLabel": "Bonnie J. Dunbar",
+    "birthdate": "1949-03-03T00:00:00Z",
+    "birthplaceLabel": "Sunnyside",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "72504"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q719911",
+    "astronautLabel": "Jeffrey A. Hoffman",
+    "birthdate": "1944-11-02T00:00:00Z",
+    "birthplaceLabel": "Brooklyn",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "72714"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q49035",
+    "astronautLabel": "Wendy B. Lawrence",
+    "birthdate": "1959-07-02T00:00:00Z",
+    "birthplaceLabel": "Jacksonville",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "73676"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q706978",
+    "astronautLabel": "Frederick W. Sturckow",
+    "birthdate": "1961-08-11T00:00:00Z",
+    "birthplaceLabel": "La Mesa",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "74016"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448538",
+    "astronautLabel": "Boris Volynov",
+    "birthdate": "1934-12-18T00:00:00Z",
+    "birthplaceLabel": "Irkutsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "75317"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q611704",
+    "astronautLabel": "James D. Halsell",
+    "birthdate": "1956-09-29T00:00:00Z",
+    "birthplaceLabel": "West Monroe",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "75514"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1322669",
+    "astronautLabel": "Kevin R. Kregel",
+    "birthdate": "1956-09-16T00:00:00Z",
+    "birthplaceLabel": "Amityville",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "75981"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1338348",
+    "astronautLabel": "Thomas David Jones",
+    "birthdate": "1955-01-22T00:00:00Z",
+    "birthplaceLabel": "Baltimore",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "76369"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q462132",
+    "astronautLabel": "Story Musgrave",
+    "birthdate": "1935-08-19T00:00:00Z",
+    "birthplaceLabel": "Boston",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "76915"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q147581",
+    "astronautLabel": "Yang Liwei",
+    "birthdate": "1965-06-21T00:00:00Z",
+    "birthplaceLabel": "Suizhong County",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "76965"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q357510",
+    "astronautLabel": "Mark Kelly",
+    "birthdate": "1964-02-21T00:00:00Z",
+    "birthplaceLabel": "Orange",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "77884"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q41632",
+    "astronautLabel": "Marsha Ivins",
+    "birthdate": "1951-04-15T00:00:00Z",
+    "birthplaceLabel": "Baltimore",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "80508"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q706739",
+    "astronautLabel": "Scott E. Parazynski",
+    "birthdate": "1961-07-28T00:00:00Z",
+    "birthplaceLabel": "Little Rock",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "83014"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q386148",
+    "astronautLabel": "Curtis Brown",
+    "birthdate": "1956-03-11T00:00:00Z",
+    "birthplaceLabel": "Elizabethtown",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "83107"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q383515",
+    "astronautLabel": "Jerry L. Ross",
+    "birthdate": "1948-01-20T00:00:00Z",
+    "birthplaceLabel": "Crown Point",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "83572"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q362209",
+    "astronautLabel": "John M. Grunsfeld",
+    "birthdate": "1958-10-10T00:00:00Z",
+    "birthplaceLabel": "Chicago",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "84423"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q520618",
+    "astronautLabel": "Richard M. Linnehan",
+    "birthdate": "1957-09-19T00:00:00Z",
+    "birthplaceLabel": "Lowell",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "86209"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448470",
+    "astronautLabel": "Steven Lindsey",
+    "birthdate": "1960-08-24T00:00:00Z",
+    "birthplaceLabel": "Arcadia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "90633"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q262359",
+    "astronautLabel": "Tamara E. Jernigan",
+    "birthdate": "1959-05-07T00:00:00Z",
+    "birthplaceLabel": "Chattanooga",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "90804"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q513131",
+    "astronautLabel": "Kenneth Cockrell",
+    "birthdate": "1950-04-09T00:00:00Z",
+    "birthplaceLabel": "Austin",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "92904"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q724552",
+    "astronautLabel": "Jim Wetherbee",
+    "birthdate": "1952-11-27T00:00:00Z",
+    "birthplaceLabel": "Flushing",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "95663"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q360433",
+    "astronautLabel": "Franklin Chang Díaz",
+    "birthdate": "1950-04-05T00:00:00Z",
+    "birthplaceLabel": "San José",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "96136"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1384788",
+    "astronautLabel": "Kent Rominger",
+    "birthdate": "1956-08-07T00:00:00Z",
+    "birthplaceLabel": "Del Norte",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "96658"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q363976",
+    "astronautLabel": "Jack R. Lousma",
+    "birthdate": "1936-02-29T00:00:00Z",
+    "birthplaceLabel": "Grand Rapids",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "97153"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q352069",
+    "astronautLabel": "Léopold Eyharts",
+    "birthdate": "1957-04-28T00:00:00Z",
+    "birthplaceLabel": "Biarritz",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "99211"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q507046",
+    "astronautLabel": "Owen K. Garriott",
+    "birthdate": "1930-11-22T00:00:00Z",
+    "birthplaceLabel": "Enid",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "100496"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q434546",
+    "astronautLabel": "Pyotr Klimuk",
+    "birthdate": "1942-07-10T00:00:00Z",
+    "birthplaceLabel": "Q11741432",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "113417"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q203026",
+    "astronautLabel": "Sergei Zalyotin",
+    "birthdate": "1962-04-21T00:00:00Z",
+    "birthplaceLabel": "Shchyokino (town), Tula Oblast",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "120516"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q644837",
+    "astronautLabel": "Gerald P. Carr",
+    "birthdate": "1932-08-22T00:00:00Z",
+    "birthplaceLabel": "Denver",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "121035"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q390344",
+    "astronautLabel": "Edward Gibson",
+    "birthdate": "1936-11-08T00:00:00Z",
+    "birthplaceLabel": "Buffalo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "121035"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q235567",
+    "astronautLabel": "Nicole Stott",
+    "birthdate": "1962-11-19T00:00:00Z",
+    "birthplaceLabel": "Albany",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "148669"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q358931",
+    "astronautLabel": "Garrett Reisman",
+    "birthdate": "1968-02-10T00:00:00Z",
+    "birthplaceLabel": "Morristown",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "154275"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q5975593",
+    "astronautLabel": "Takuya Ōnishi",
+    "birthdate": "1975-12-22T00:00:00Z",
+    "birthplaceLabel": "Nerima-ku",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "165742"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3194085",
+    "astronautLabel": "Kathleen Rubins",
+    "birthdate": "1978-10-14T00:00:00Z",
+    "birthplaceLabel": "Farmington",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "165742"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q975217",
+    "astronautLabel": "Sergei Revin",
+    "birthdate": "1966-01-12T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "179992"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q375631",
+    "astronautLabel": "Daniel M. Tani",
+    "birthdate": "1961-02-01T00:00:00Z",
+    "birthplaceLabel": "Ridley Park",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "189725"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3157177",
+    "astronautLabel": "Jack D. Fischer",
+    "birthdate": "1974-01-23T00:00:00Z",
+    "birthplaceLabel": "Louisville",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "195488"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q143103",
+    "astronautLabel": "Norman Thagard",
+    "birthdate": "1943-07-03T00:00:00Z",
+    "birthplaceLabel": "Marianna",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "202404"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q375641",
+    "astronautLabel": "Akihiko Hoshide",
+    "birthdate": "1968-12-28T00:00:00Z",
+    "birthplaceLabel": "Setagaya-ku",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "202620"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q5975489",
+    "astronautLabel": "Kimiya Yui",
+    "birthdate": "1970-01-30T00:00:00Z",
+    "birthplaceLabel": "Nagano",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "203040"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3197699",
+    "astronautLabel": "Kjell N. Lindgren",
+    "birthdate": "1973-01-23T00:00:00Z",
+    "birthplaceLabel": "Taipei",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "203040"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1376469",
+    "astronautLabel": "Jerry M. Linenger",
+    "birthdate": "1955-01-16T00:00:00Z",
+    "birthplaceLabel": "Eastpointe",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "206090"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q705636",
+    "astronautLabel": "Frank L. Culbertson",
+    "birthdate": "1949-05-15T00:00:00Z",
+    "birthplaceLabel": "Charleston",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "206810"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q261731",
+    "astronautLabel": "Evgeny Tarelkin",
+    "birthdate": "1974-12-29T00:00:00Z",
+    "birthplaceLabel": "Chita Oblast",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "206895"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q487984",
+    "astronautLabel": "Anatoly Artsebarsky",
+    "birthdate": "1956-09-09T00:00:00Z",
+    "birthplaceLabel": "Prosiana",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "208281"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q466513",
+    "astronautLabel": "Vladimir Dzhanibekov",
+    "birthdate": "1942-05-13T00:00:00Z",
+    "birthplaceLabel": "Iskandar",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "209756"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q446531",
+    "astronautLabel": "Aleksandr Ivanchenkov",
+    "birthdate": "1940-09-28T00:00:00Z",
+    "birthplaceLabel": "Ivanteyevka",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "212437"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q722127",
+    "astronautLabel": "Randolph Bresnik",
+    "birthdate": "1967-09-11T00:00:00Z",
+    "birthplaceLabel": "Fort Knox",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "215292"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q49064",
+    "astronautLabel": "Sandra Magnus",
+    "birthdate": "1964-10-30T00:00:00Z",
+    "birthplaceLabel": "Belleville",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "226602"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q706849",
+    "astronautLabel": "Kevin A. Ford",
+    "birthdate": "1960-07-07T00:00:00Z",
+    "birthplaceLabel": "Portland",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "226869"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q722142",
+    "astronautLabel": "Dmitri Kondratyev",
+    "birthdate": "1969-05-25T00:00:00Z",
+    "birthplaceLabel": "Irkutsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "229397"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q361932",
+    "astronautLabel": "William Shepherd",
+    "birthdate": "1949-07-26T00:00:00Z",
+    "birthplaceLabel": "Oak Ridge",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "229429"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q609639",
+    "astronautLabel": "John E. Blaha",
+    "birthdate": "1942-08-26T00:00:00Z",
+    "birthplaceLabel": "San Antonio",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "232005"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q520384",
+    "astronautLabel": "Thomas Marshburn",
+    "birthdate": "1960-08-29T00:00:00Z",
+    "birthplaceLabel": "Statesville",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "232264"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461777",
+    "astronautLabel": "Timothy Creamer",
+    "birthdate": "1959-11-15T00:00:00Z",
+    "birthplaceLabel": "Fort Huachuca",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "235053"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q240708",
+    "astronautLabel": "Shannon Walker",
+    "birthdate": "1965-06-04T00:00:00Z",
+    "birthplaceLabel": "Houston",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "235151"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q71248",
+    "astronautLabel": "Alexander Gerst",
+    "birthdate": "1976-05-03T00:00:00Z",
+    "birthplaceLabel": "Künzelsau",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "238081"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3116390",
+    "astronautLabel": "Gregory Reid Wiseman",
+    "birthdate": "1975-11-11T00:00:00Z",
+    "birthplaceLabel": "Baltimore",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "238081"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1394857",
+    "astronautLabel": "Luca Parmitano",
+    "birthdate": "1976-09-27T00:00:00Z",
+    "birthplaceLabel": "Paternò",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "239040"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q1076962",
+    "astronautLabel": "Chris Hadfield",
+    "birthdate": "1959-08-29T00:00:00Z",
+    "birthplaceLabel": "Toronto",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "239040"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3030934",
+    "astronautLabel": "Michael S. Hopkins",
+    "birthdate": "1968-11-28T00:00:00Z",
+    "birthplaceLabel": "Lebanon",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "239427"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q447264",
+    "astronautLabel": "Clayton Anderson",
+    "birthdate": "1959-02-23T00:00:00Z",
+    "birthplaceLabel": "Omaha",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "240310"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q706916",
+    "astronautLabel": "Satoshi Furukawa",
+    "birthdate": "1964-04-04T00:00:00Z",
+    "birthplaceLabel": "Yokohama",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "240480"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3492123",
+    "astronautLabel": "Yelena Serova",
+    "birthdate": "1976-04-22T00:00:00Z",
+    "birthplaceLabel": "Q4114698",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "240824"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3294252",
+    "astronautLabel": "Mark T. Vande Hei",
+    "birthdate": "1966-11-10T00:00:00Z",
+    "birthplaceLabel": "Falls Church",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "242220"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q5970982",
+    "astronautLabel": "Norishige Kanai",
+    "birthdate": "1976-12-05T00:00:00Z",
+    "birthplaceLabel": "Tokyo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "242238"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3476196",
+    "astronautLabel": "Scott D. Tingle",
+    "birthdate": "1965-07-19T00:00:00Z",
+    "birthplaceLabel": "Attleboro",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "242238"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461788",
+    "astronautLabel": "David Wolf",
+    "birthdate": "1956-08-23T00:00:00Z",
+    "birthplaceLabel": "Indianapolis",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "242457"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q4715991",
+    "astronautLabel": "Aleksey Ovchinin",
+    "birthdate": "1971-09-28T00:00:00Z",
+    "birthplaceLabel": "Rybinsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "247908"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q7454059",
+    "astronautLabel": "Sergey Ryzhikov",
+    "birthdate": "1974-08-19T00:00:00Z",
+    "birthplaceLabel": "Bugulma",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "249315"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q708452",
+    "astronautLabel": "Aleksandr Laveykin",
+    "birthdate": "1951-04-21T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "250765"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q357450",
+    "astronautLabel": "Soichi Noguchi",
+    "birthdate": "1965-04-15T00:00:00Z",
+    "birthplaceLabel": "Yokohama",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "255065"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q507894",
+    "astronautLabel": "Andy Thomas",
+    "birthdate": "1951-12-18T00:00:00Z",
+    "birthplaceLabel": "Adelaide",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "255434"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q441017",
+    "astronautLabel": "Ronald J. Garan",
+    "birthdate": "1961-10-30T00:00:00Z",
+    "birthplaceLabel": "Yonkers",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "256314"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q554409",
+    "astronautLabel": "Barry E. Wilmore",
+    "birthdate": "1962-12-29T00:00:00Z",
+    "birthplaceLabel": "Murfreesboro",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "256380"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461860",
+    "astronautLabel": "Douglas H. Wheelock",
+    "birthdate": "1960-05-05T00:00:00Z",
+    "birthplaceLabel": "Binghamton",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "256894"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q255764",
+    "astronautLabel": "Yelena Kondakova",
+    "birthdate": "1957-03-30T00:00:00Z",
+    "birthplaceLabel": "Mytishchi",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "256961"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q711010",
+    "astronautLabel": "Aleksandr Poleshchuk",
+    "birthdate": "1953-10-30T00:00:00Z",
+    "birthplaceLabel": "Cheremkhovo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "257803"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q725659",
+    "astronautLabel": "Aleksandr Nikolayevich Balandin",
+    "birthdate": "1953-07-30T00:00:00Z",
+    "birthplaceLabel": "Fryazino",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "257837"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q240776",
+    "astronautLabel": "Karen L. Nyberg",
+    "birthdate": "1969-10-07T00:00:00Z",
+    "birthplaceLabel": "Parkers Prairie",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "259200"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q7468",
+    "astronautLabel": "Catherine Coleman",
+    "birthdate": "1960-12-14T00:00:00Z",
+    "birthplaceLabel": "Charleston",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "259440"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q52046",
+    "astronautLabel": "Christopher Cassidy",
+    "birthdate": "1970-01-04T00:00:00Z",
+    "birthplaceLabel": "Salem",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "262020"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q620632",
+    "astronautLabel": "Aleksandr Lazutkin",
+    "birthdate": "1957-10-30T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "266287"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q727902",
+    "astronautLabel": "Sergei Treshchov",
+    "birthdate": "1958-08-18T00:00:00Z",
+    "birthplaceLabel": "Lipetsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "266295"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q518012",
+    "astronautLabel": "Timothy Peake",
+    "birthdate": "1972-04-07T00:00:00Z",
+    "birthplaceLabel": "Chichester",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "267731"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q382176",
+    "astronautLabel": "Daniel C. Burbank",
+    "birthdate": "1961-07-27T00:00:00Z",
+    "birthplaceLabel": "Manchester",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "270720"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q21767",
+    "astronautLabel": "Tracy Caldwell Dyson",
+    "birthdate": "1969-08-14T00:00:00Z",
+    "birthplaceLabel": "Arcadia",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "271874"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448563",
+    "astronautLabel": "John L. Phillips",
+    "birthdate": "1951-04-15T00:00:00Z",
+    "birthplaceLabel": "Fort Belvoir",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "274914"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q454649",
+    "astronautLabel": "André Kuipers",
+    "birthdate": "1958-10-05T00:00:00Z",
+    "birthplaceLabel": "Amsterdam",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "277618"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q434232",
+    "astronautLabel": "Michael E. Fossum",
+    "birthdate": "1957-12-19T00:00:00Z",
+    "birthplaceLabel": "Sioux Falls",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "279062"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q537279",
+    "astronautLabel": "Steven Swanson",
+    "birthdate": "1960-12-03T00:00:00Z",
+    "birthplaceLabel": "Syracuse",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "282047"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q512266",
+    "astronautLabel": "Thomas Pesquet",
+    "birthdate": "1978-02-27T00:00:00Z",
+    "birthplaceLabel": "Rouen",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "283309"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q52495",
+    "astronautLabel": "Frank De Winne",
+    "birthdate": "1961-04-25T00:00:00Z",
+    "birthplaceLabel": "Ghent",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "286174"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461872",
+    "astronautLabel": "Gregory Chamitoff",
+    "birthdate": "1962-08-06T00:00:00Z",
+    "birthplaceLabel": "Montreal",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "286202"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448872",
+    "astronautLabel": "Valeri Tokarev",
+    "birthdate": "1952-10-29T00:00:00Z",
+    "birthplaceLabel": "Kapustin Yar",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "287466"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q379039",
+    "astronautLabel": "Samantha Cristoforetti",
+    "birthdate": "1977-04-26T00:00:00Z",
+    "birthplaceLabel": "Milan",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "287562"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q433046",
+    "astronautLabel": "Leonid Popov",
+    "birthdate": "1945-08-31T00:00:00Z",
+    "birthplaceLabel": "Oleksandriia",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "288885"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q539358",
+    "astronautLabel": "Yury Lonchakov",
+    "birthdate": "1965-03-04T00:00:00Z",
+    "birthplaceLabel": "Balkhash",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "289119"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q730220",
+    "astronautLabel": "Salizhan Sharipov",
+    "birthdate": "1964-08-24T00:00:00Z",
+    "birthplaceLabel": "Uzgen",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "290330"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q528832",
+    "astronautLabel": "James S. Voss",
+    "birthdate": "1949-03-03T00:00:00Z",
+    "birthplaceLabel": "Cordova",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "291208"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461795",
+    "astronautLabel": "Robert Thirsk",
+    "birthdate": "1953-08-17T00:00:00Z",
+    "birthplaceLabel": "New Westminster",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "294869"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q709931",
+    "astronautLabel": "Ed Lu",
+    "birthdate": "1963-07-01T00:00:00Z",
+    "birthplaceLabel": "Springfield",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "296598"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q462853",
+    "astronautLabel": "Richard R. Arnold",
+    "birthdate": "1963-11-26T00:00:00Z",
+    "birthplaceLabel": "Cheverly",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "301769"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q41575",
+    "astronautLabel": "Susan J. Helms",
+    "birthdate": "1958-02-26T00:00:00Z",
+    "birthplaceLabel": "Charlotte",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "303786"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q440251",
+    "astronautLabel": "Michael Barratt",
+    "birthdate": "1959-04-16T00:00:00Z",
+    "birthplaceLabel": "Vancouver",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "304546"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q920936",
+    "astronautLabel": "Ken Bowersox",
+    "birthdate": "1956-11-14T00:00:00Z",
+    "birthplaceLabel": "Portsmouth",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "304692"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q554415",
+    "astronautLabel": "Terry W. Virts",
+    "birthdate": "1967-12-01T00:00:00Z",
+    "birthplaceLabel": "Baltimore",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "307368"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q314921",
+    "astronautLabel": "Vladimir Kovalyonok",
+    "birthdate": "1942-03-03T00:00:00Z",
+    "birthplaceLabel": "Q6468300",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "311588"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q535157",
+    "astronautLabel": "Valentin Lebedev",
+    "birthdate": "1942-04-14T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "315719"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q233795",
+    "astronautLabel": "Shannon Lucid",
+    "birthdate": "1943-01-14T00:00:00Z",
+    "birthplaceLabel": "Shanghai",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "321290"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q709921",
+    "astronautLabel": "William S. McArthur",
+    "birthdate": "1951-07-26T00:00:00Z",
+    "birthplaceLabel": "Laurinburg",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "323899"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q505530",
+    "astronautLabel": "Andrew J. Feustel",
+    "birthdate": "1965-08-25T00:00:00Z",
+    "birthplaceLabel": "Lancaster",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "324555"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q948673",
+    "astronautLabel": "Daniel W. Bursch",
+    "birthdate": "1957-07-25T00:00:00Z",
+    "birthplaceLabel": "Bristol",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "326776"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q536777",
+    "astronautLabel": "Richard Mastracchio",
+    "birthdate": "1960-02-11T00:00:00Z",
+    "birthplaceLabel": "Waterbury",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "327698"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q709935",
+    "astronautLabel": "Leroy Chiao",
+    "birthdate": "1960-08-28T00:00:00Z",
+    "birthplaceLabel": "Milwaukee",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "330218"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q644705",
+    "astronautLabel": "Carl E. Walz",
+    "birthdate": "1955-09-06T00:00:00Z",
+    "birthplaceLabel": "Cleveland",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "331984"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q708484",
+    "astronautLabel": "Oleg Atkov",
+    "birthdate": "1949-05-09T00:00:00Z",
+    "birthplaceLabel": "Q4496937",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "341209"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q440303",
+    "astronautLabel": "Timothy Kopra",
+    "birthdate": "1963-04-09T00:00:00Z",
+    "birthplaceLabel": "Austin",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "351421"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q535831",
+    "astronautLabel": "Vladimir Dezhurov",
+    "birthdate": "1962-07-30T00:00:00Z",
+    "birthplaceLabel": "Yavas",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "351688"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q431006",
+    "astronautLabel": "Viktor Savinykh",
+    "birthdate": "1940-03-07T00:00:00Z",
+    "birthplaceLabel": "Q15378535",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "363938"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q375202",
+    "astronautLabel": "Michael López-Alegría",
+    "birthdate": "1958-05-30T00:00:00Z",
+    "birthplaceLabel": "Madrid",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "371446"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q487622",
+    "astronautLabel": "Anatoli Ivanishin",
+    "birthdate": "1969-01-15T00:00:00Z",
+    "birthplaceLabel": "Irkutsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "403793"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q3329196",
+    "astronautLabel": "Sergey Ryazansky",
+    "birthdate": "1974-11-13T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "439161"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q318934",
+    "astronautLabel": "Joseph M. Acaba",
+    "birthdate": "1967-05-17T00:00:00Z",
+    "birthplaceLabel": "Inglewood",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "440640"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q466483",
+    "astronautLabel": "Aleksandr Pavlovich Aleksandrov",
+    "birthdate": "1943-02-20T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "446042"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q956160",
+    "astronautLabel": "Gennadi Manakov",
+    "birthdate": "1950-06-01T00:00:00Z",
+    "birthplaceLabel": "Q4177412",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "446238"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q17177",
+    "astronautLabel": "Paolo Nespoli",
+    "birthdate": "1957-04-06T00:00:00Z",
+    "birthplaceLabel": "Milan",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "450876"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q55177",
+    "astronautLabel": "Sunita Williams",
+    "birthdate": "1965-09-19T00:00:00Z",
+    "birthplaceLabel": "Euclid",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "463275"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q448491",
+    "astronautLabel": "Yuri Gidzenko",
+    "birthdate": "1962-03-26T00:00:00Z",
+    "birthplaceLabel": "Yelanets",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "475124"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q928034",
+    "astronautLabel": "Aleksandr Samokutyayev",
+    "birthdate": "1970-03-13T00:00:00Z",
+    "birthplaceLabel": "Penza",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "477325"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q927249",
+    "astronautLabel": "Oleg Skripochka",
+    "birthdate": "1969-12-24T00:00:00Z",
+    "birthplaceLabel": "Nevinnomyssk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "477390"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q457064",
+    "astronautLabel": "Roman Romanenko",
+    "birthdate": "1971-08-09T00:00:00Z",
+    "birthplaceLabel": "Shchyolkovo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "480181"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q2655329",
+    "astronautLabel": "Alexander Misurkin",
+    "birthdate": "1977-09-23T00:00:00Z",
+    "birthplaceLabel": "Yershichi",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "481620"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q461807",
+    "astronautLabel": "Maksim Surayev",
+    "birthdate": "1972-05-24T00:00:00Z",
+    "birthplaceLabel": "Chelyabinsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "481691"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q502101",
+    "astronautLabel": "Andrei Borisenko",
+    "birthdate": "1964-04-17T00:00:00Z",
+    "birthplaceLabel": "Saint Petersburg",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "485816"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q963226",
+    "astronautLabel": "Oleg Novitskiy",
+    "birthdate": "1971-10-12T00:00:00Z",
+    "birthplaceLabel": "Chervyen",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "490204"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q555679",
+    "astronautLabel": "Aleksandr Aleksandrovich Skvortsov",
+    "birthdate": "1966-05-06T00:00:00Z",
+    "birthplaceLabel": "Shchyolkovo",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "497185"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q375566",
+    "astronautLabel": "Koichi Wakata",
+    "birthdate": "1963-08-01T00:00:00Z",
+    "birthplaceLabel": "Ōmiya",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "500192"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q166616",
+    "astronautLabel": "Thomas Reiter",
+    "birthdate": "1958-05-23T00:00:00Z",
+    "birthplaceLabel": "Frankfurt",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "504344"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q535172",
+    "astronautLabel": "Vladimir Solovyov",
+    "birthdate": "1946-11-11T00:00:00Z",
+    "birthplaceLabel": "Moscow",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "521209"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q7086024",
+    "astronautLabel": "Oleg Artemyev",
+    "birthdate": "1970-12-28T00:00:00Z",
+    "birthplaceLabel": "Riga",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "526985"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q363250",
+    "astronautLabel": "Donald Pettit",
+    "birthdate": "1955-04-20T00:00:00Z",
+    "birthplaceLabel": "Silverton",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "532800"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q472497",
+    "astronautLabel": "Valery Ryumin",
+    "birthdate": "1939-08-16T00:00:00Z",
+    "birthplaceLabel": "Komsomolsk-on-Amur",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "535284"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q540379",
+    "astronautLabel": "Michael Foale",
+    "birthdate": "1957-01-06T00:00:00Z",
+    "birthplaceLabel": "Louth",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "538218"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q235523",
+    "astronautLabel": "Peggy Whitson",
+    "birthdate": "1960-02-09T00:00:00Z",
+    "birthplaceLabel": "Mount Ayr",
+    "sex_or_genderLabel": "female",
+    "time_in_space": "542509"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q466069",
+    "astronautLabel": "Vladimir Titov",
+    "birthdate": "1947-01-01T00:00:00Z",
+    "birthplaceLabel": "Sretensk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "544365"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q362261",
+    "astronautLabel": "Michael Fincke",
+    "birthdate": "1967-03-14T00:00:00Z",
+    "birthplaceLabel": "Pittsburgh",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "549551"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q709634",
+    "astronautLabel": "Valery Korzun",
+    "birthdate": "1953-03-05T00:00:00Z",
+    "birthplaceLabel": "Krasny Sulin",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "549581"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q728371",
+    "astronautLabel": "Vasily Tsibliyev",
+    "birthdate": "1954-02-20T00:00:00Z",
+    "birthplaceLabel": "Orikhivka",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "549592"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q708489",
+    "astronautLabel": "Yury Onufriyenko",
+    "birthdate": "1961-02-06T00:00:00Z",
+    "birthplaceLabel": "Riasne",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "561046"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q446233",
+    "astronautLabel": "Aleksandr Aleksandrovich Volkov",
+    "birthdate": "1948-05-27T00:00:00Z",
+    "birthplaceLabel": "Horlivka",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "563752"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q446720",
+    "astronautLabel": "Yury Romanenko",
+    "birthdate": "1944-08-01T00:00:00Z",
+    "birthplaceLabel": "Q4228728",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "620301"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q641389",
+    "astronautLabel": "Nikolai Budarin",
+    "birthdate": "1953-04-29T00:00:00Z",
+    "birthplaceLabel": "Q4221940",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "639445"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q221615",
+    "astronautLabel": "Aleksandr Viktorenko",
+    "birthdate": "1947-03-29T00:00:00Z",
+    "birthplaceLabel": "Olginka",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "717213"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q520334",
+    "astronautLabel": "Mikhail Korniyenko",
+    "birthdate": "1960-04-15T00:00:00Z",
+    "birthplaceLabel": "Syzran",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "743641"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q362190",
+    "astronautLabel": "Scott Kelly",
+    "birthdate": "1964-02-21T00:00:00Z",
+    "birthplaceLabel": "Orange",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "749400"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q342338",
+    "astronautLabel": "Oleg Kotov",
+    "birthdate": "1965-10-27T00:00:00Z",
+    "birthplaceLabel": "Simferopol",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "757744"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q362180",
+    "astronautLabel": "Mikhail Tyurin",
+    "birthdate": "1960-03-02T00:00:00Z",
+    "birthplaceLabel": "Kolomna",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "766250"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q375659",
+    "astronautLabel": "Oleg Kononenko",
+    "birthdate": "1964-06-21T00:00:00Z",
+    "birthplaceLabel": "Türkmenabat",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "767520"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q592219",
+    "astronautLabel": "Anton Shkaplerov",
+    "birthdate": "1972-02-20T00:00:00Z",
+    "birthplaceLabel": "Sevastopol",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "767851"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q382202",
+    "astronautLabel": "Jeffrey Williams",
+    "birthdate": "1958-01-18T00:00:00Z",
+    "birthplaceLabel": "Superior",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "769128"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q467732",
+    "astronautLabel": "Musa Manarov",
+    "birthdate": "1951-03-22T00:00:00Z",
+    "birthplaceLabel": "Baku",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "779068"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q466075",
+    "astronautLabel": "Pavel Vinogradov",
+    "birthdate": "1953-08-31T00:00:00Z",
+    "birthplaceLabel": "Magadan",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "787592"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q283544",
+    "astronautLabel": "Sergey Alexandrovich Volkov",
+    "birthdate": "1973-04-01T00:00:00Z",
+    "birthplaceLabel": "Chuhuiv",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "789021"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q376688",
+    "astronautLabel": "Yury Usachov",
+    "birthdate": "1957-10-09T00:00:00Z",
+    "birthplaceLabel": "Donetsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "796225"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q471486",
+    "astronautLabel": "Viktor Afanasyev",
+    "birthdate": "1948-12-31T00:00:00Z",
+    "birthplaceLabel": "Bryansk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "800313"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q447311",
+    "astronautLabel": "Anatoly Solovyev",
+    "birthdate": "1948-01-16T00:00:00Z",
+    "birthplaceLabel": "Riga",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "937442"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q347977",
+    "astronautLabel": "Fyodor Yurchikhin",
+    "birthdate": "1959-01-03T00:00:00Z",
+    "birthplaceLabel": "Batumi",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "968918"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q317792",
+    "astronautLabel": "Valeri Polyakov",
+    "birthdate": "1942-04-27T00:00:00Z",
+    "birthplaceLabel": "Tula",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "977312"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q453764",
+    "astronautLabel": "Sergei Avdeyev",
+    "birthdate": "1956-01-01T00:00:00Z",
+    "birthplaceLabel": "Chapayevsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1076534"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q345288",
+    "astronautLabel": "Aleksandr Kaleri",
+    "birthdate": "1956-05-13T00:00:00Z",
+    "birthplaceLabel": "Jūrmala",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1107757"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q313815",
+    "astronautLabel": "Sergei Krikalev",
+    "birthdate": "1958-08-27T00:00:00Z",
+    "birthplaceLabel": "Saint Petersburg",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1156899"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q342953",
+    "astronautLabel": "Yuri Malenchenko",
+    "birthdate": "1961-12-22T00:00:00Z",
+    "birthplaceLabel": "Svitlovodsk",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1191380"
+  },
+  {
+    "astronaut": "http://www.wikidata.org/entity/Q362998",
+    "astronautLabel": "Gennady Padalka",
+    "birthdate": "1958-06-21T00:00:00Z",
+    "birthplaceLabel": "Krasnodar",
+    "sex_or_genderLabel": "male",
+    "time_in_space": "1265760"
+  }
+]

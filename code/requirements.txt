@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2018 German Aerospace Center (DLR)
+# SPDX-License-Identifier: MIT
+
+
+# Packages required to run the analysis script
+pandas==1.2.4
+matplotlib==3.4.2
+
+# Packages required to run the test script
+flake8==3.9.2
+reuse==0.12.1
+python-debian==0.1.38

@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2018 German Aerospace Center (DLR)
+# SPDX-License-Identifier: CC0-1.0
+
+# Ignore Python specific temporarily created files
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Only allow plots in the results directory
+*.png
+!/results/*.png
