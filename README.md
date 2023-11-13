@@ -5,7 +5,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Introduction
 
-This repository contains a software project that analysis some astronaut data and has been used to aid the material in ["Let's Make Your Script Ready for Publication
+This repository contains a software project that analyses some astronaut data and has been used to aid the material in ["Let's Make Your Script Ready for Publication
 " workshop](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/workshop-materials). The original [software project](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/astronaut-analysis) is stored on GitLab. 
 
 - It demonstrates every important step performed in the [workshop](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/workshop-materials).
