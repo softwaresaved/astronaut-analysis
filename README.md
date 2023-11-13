@@ -3,16 +3,16 @@ SPDX-FileCopyrightText: 2018 German Aerospace Center (DLR)
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
+# Introduction
 
-> ## Please note that this is not a usual Git repository:
->   - It demonstrates every important step performed in the workshop.
->   - Every branch shows the final results of a specific step.
->   - The default branch (this branch) adds further documentation and automates checking some details.
->
-> Please see [CONTRIBUTING.md](CONTRIBUTING.md) for further information.
+This repository contains a software project that analysis some astronaut data and has been used to aid the material in ["Let's Make Your Script Ready for Publication
+" workshop](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/workshop-materials). The original [software project](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/astronaut-analysis) is stored on GitLab. 
 
+- It demonstrates every important step performed in the [workshop](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/workshop-materials).
+- Every branch shows the final results of a specific step.
+- The default branch (this branch) adds further documentation and automates checking some details.
 
-# Astronaut Analysis
+## Astronaut Analysis
 
 This analysis is based on publicly available astronauts data from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 In this context, we investigated aspects such as time humans spent in space as well as the age distribution of the astronauts.
